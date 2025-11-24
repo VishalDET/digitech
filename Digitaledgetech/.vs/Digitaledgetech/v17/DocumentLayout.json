@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\digitaledgetech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|solutionrelative:digitaledgetech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\digitaledgetech\\views\\home\\clientele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|solutionrelative:digitaledgetech\\views\\home\\clientele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\digitaledgetech\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|solutionrelative:digitaledgetech\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\digitaledgetech\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|solutionrelative:digitaledgetech\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\digitaledgetech\\views\\home\\hardware.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|solutionrelative:digitaledgetech\\views\\home\\hardware.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\digitaledgetech\\digitaledgetech.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|solutionrelative:digitaledgetech\\digitaledgetech.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\digitaledgetech\\wwwroot\\css\\social.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|solutionrelative:digitaledgetech\\wwwroot\\css\\social.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\digitaledgetech\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|solutionrelative:digitaledgetech\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\digitaledgetech\\views\\home\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|solutionrelative:digitaledgetech\\views\\home\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\digitaledgetech\\views\\home\\acedge.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|solutionrelative:digitaledgetech\\views\\home\\acedge.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\digitaledgetech\\views\\home\\software.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|solutionrelative:digitaledgetech\\views\\home\\software.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\digitaledgetech\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|solutionrelative:digitaledgetech\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\digitaledgetech\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083C51D2-9E65-4007-9BED-AB9A245EA34E}|Digitaledgetech\\Digitaledgetech.csproj|solutionrelative:digitaledgetech\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4256828E-7234-4921-BA66-CFBE78684953}|core\\core.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\core\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4256828E-7234-4921-BA66-CFBE78684953}|core\\core.csproj|solutionrelative:core\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4256828E-7234-4921-BA66-CFBE78684953}|core\\core.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\core\\pages\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4256828E-7234-4921-BA66-CFBE78684953}|core\\core.csproj|solutionrelative:core\\pages\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4256828E-7234-4921-BA66-CFBE78684953}|core\\core.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4256828E-7234-4921-BA66-CFBE78684953}|core\\core.csproj|solutionrelative:core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4256828E-7234-4921-BA66-CFBE78684953}|core\\core.csproj|d:\\vishal\\f drive data (main)\\vishal\\projects\\digitaledgetech\\core\\pages\\about.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4256828E-7234-4921-BA66-CFBE78684953}|core\\core.csproj|solutionrelative:core\\pages\\about.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Digitaledgetech.csproj",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Digitaledgetech.csproj",
+              "RelativeDocumentMoniker": "Digitaledgetech\\Digitaledgetech.csproj",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Digitaledgetech.csproj",
+              "RelativeToolTip": "Digitaledgetech\\Digitaledgetech.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T12:25:26.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clientele.cshtml",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Home\\Clientele.cshtml",
+              "RelativeDocumentMoniker": "Digitaledgetech\\Views\\Home\\Clientele.cshtml",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Home\\Clientele.cshtml",
+              "RelativeToolTip": "Digitaledgetech\\Views\\Home\\Clientele.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T11:43:26.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Acedge.cshtml",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Home\\Acedge.cshtml",
+              "RelativeDocumentMoniker": "Digitaledgetech\\Views\\Home\\Acedge.cshtml",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Home\\Acedge.cshtml",
+              "RelativeToolTip": "Digitaledgetech\\Views\\Home\\Acedge.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYBAADUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T11:38:08.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Service.cshtml",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Home\\Service.cshtml",
+              "RelativeDocumentMoniker": "Digitaledgetech\\Views\\Home\\Service.cshtml",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Home\\Service.cshtml",
+              "RelativeToolTip": "Digitaledgetech\\Views\\Home\\Service.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T09:51:03.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Software.cshtml",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Home\\Software.cshtml",
+              "RelativeDocumentMoniker": "Digitaledgetech\\Views\\Home\\Software.cshtml",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Home\\Software.cshtml",
+              "RelativeToolTip": "Digitaledgetech\\Views\\Home\\Software.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAIkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T09:50:48.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Digitaledgetech\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Digitaledgetech\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAwK0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T09:49:24.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Digitaledgetech\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Digitaledgetech\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:46:29.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hardware.cshtml",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Home\\Hardware.cshtml",
+              "RelativeDocumentMoniker": "Digitaledgetech\\Views\\Home\\Hardware.cshtml",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Home\\Hardware.cshtml",
+              "RelativeToolTip": "Digitaledgetech\\Views\\Home\\Hardware.cshtml",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAANUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T09:46:12.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Digitaledgetech\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Digitaledgetech\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAO8AAAAA7P////8AwPoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T10:00:46.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Digitaledgetech\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Digitaledgetech\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T13:19:29.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Social.css",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\wwwroot\\css\\Social.css",
+              "RelativeDocumentMoniker": "Digitaledgetech\\wwwroot\\css\\Social.css",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\wwwroot\\css\\Social.css",
+              "RelativeToolTip": "Digitaledgetech\\wwwroot\\css\\Social.css",
+              "ViewState": "AgIAAAkCAAAAAAAAAAAuwDMCAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-28T13:10:00.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Digitaledgetech\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Digitaledgetech\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAKEfAAAAAAAAAAAAALsfAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-28T13:09:42.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Digitaledgetech\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\Digitaledgetech\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Digitaledgetech\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T06:40:28.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "about.cshtml",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\core\\Pages\\about.cshtml",
+              "RelativeDocumentMoniker": "core\\Pages\\about.cshtml",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\core\\Pages\\about.cshtml",
+              "RelativeToolTip": "core\\Pages\\about.cshtml",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAALgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T11:53:45.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "about.cshtml.cs",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\core\\Pages\\about.cshtml.cs",
+              "RelativeDocumentMoniker": "core\\Pages\\about.cshtml.cs",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\core\\Pages\\about.cshtml.cs",
+              "RelativeToolTip": "core\\Pages\\about.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:53:44.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "service.cshtml",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\core\\Pages\\service.cshtml",
+              "RelativeDocumentMoniker": "core\\Pages\\service.cshtml",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\core\\Pages\\service.cshtml",
+              "RelativeToolTip": "core\\Pages\\service.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T11:53:29.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\core\\Program.cs",
+              "RelativeDocumentMoniker": "core\\Program.cs",
+              "ToolTip": "D:\\Vishal\\F drive data (main)\\Vishal\\projects\\Digitaledgetech\\core\\Program.cs",
+              "RelativeToolTip": "core\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:33:13.825Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

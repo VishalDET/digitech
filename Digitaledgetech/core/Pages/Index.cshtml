@@ -1,0 +1,560 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<header class="header">
+    <div class="headlines">
+        <!-- <div class="container"> -->
+        <h1>
+            Projects that:<br>
+            <span class="typewrite" data-period="2000"
+                  data-type='["Capture Attention","Drive Conversion","Generate results."]'></span>
+            <span class="wrap"></span>
+        </h1>
+        <!-- </div> -->
+        <!-- end container -->
+    </div>
+</header>
+<!-- end headlines -->
+<!-- Slider -->
+<div class="slider-sec" id="desktop-banner">
+    <div class="owl-carousel owl-theme home-slider">
+        <div class="item" id="desktop-banner-1">
+            <img src="images/Banner_03.gif" alt="slide02" class="img-fluid">
+        </div>
+        <div class="item" id="desktop-banner-2">
+            <img src="images/New_Banner_02.gif" alt="slide01" class="img-fluid">
+        </div>
+        <div class="item" id="desktop-banner-3">
+            <img src="images/New_Bannerr_05.gif" alt="slide03" class="img-fluid">
+        </div>
+    </div>
+</div>
+
+<div class="slider-sec" id="mobile-banner">
+    <div class="owl-carousel owl-theme home-slider">
+        <div class="item" id="mobile-banner-1">
+            <img src="images/Banner_03_new.gif" alt="slide02" class="img-fluid">
+        </div>
+        <div class="item" id="mobile-banner-2">
+            <img src="images/Banner_02_new.gif" alt="slide01" class="img-fluid">
+        </div>
+        <div class="item" id="mobile-banner-3">
+            <img src="images/BannerM_05.gif" alt="slide03" class="img-fluid">
+        </div>
+    </div>
+</div>
+<!-- end slider -->
+
+<div class="d-flex d-md-none">
+    <div class="col-12 pt-5">
+        <div class="container">
+            <div class="titles">
+                <h6>OUR SERVICES</h6>
+                <p class="text-yellow">We are Master of.</p>
+            </div>
+            <div id="servicesCarousel" class="carousel slide services-carousel carousel-fade" data-bs-ride="carousel" data-bs-interval="3000">
+                <div class="carousel-indicators d-flex justify-content-center mt-3 mb-0 py-0">
+                    <button type="button" data-bs-target="#servicesCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#servicesCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#servicesCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                    <button type="button" data-bs-target="#servicesCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                    <button type="button" data-bs-target="#servicesCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                    <button type="button" data-bs-target="#servicesCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
+                </div>
+                <div class="carousel-inner ">
+                    <div class="carousel-item active">
+                        <div class="row">
+                            <div class="col-12 col-sm-6 col-lg-4 service-item">
+                                <a asp-action="Software" class="text-black">
+                                    <img src="~/images/Software Development.jpg" alt="Software Development" class="service-image">
+                                    <h3 class="service-title fw-bold">Software Development</h3>
+                                </a>
+                                <p class="service-intro">We offer tailored <a asp-action="Software" class="text-black">software solutions</a> to meet your unique business needs, ensuring efficiency and business logic. We specialize in agile methodologies, ensuring rapid deployment and scalability.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="row">
+                            <div class="col-12 col-sm-6 col-lg-4 service-item">
+                                <a asp-action="ERP" class="text-black">
+                                    <img src="~/images/ERP-01.jpg" alt="Enterprise Resource Planning" class="service-image">
+                                    <h3 class="service-title fw-bold">Enterprise Resource Planning</h3>
+                                </a>
+                                <p class="service-intro">Utilize your staff's skills, hardware, and software to increase productivity and simplify daily processes with our ERP solutions.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="row">
+                            <div class="col-12 col-sm-6 col-lg-4 service-item">
+                                <a href="Web" class="text-black">
+                                    <img src="~/images/Web Development-01.jpg" alt="Web Development" class="service-image">
+                                    <h3 class="service-title fw-bold">Web Development</h3>
+                                </a>
+                                <p class="service-intro">We create responsive and engaging websites that enhance user experience and drive conversions.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="row">
+                            <div class="col-12 col-sm-6 col-lg-4 service-item">
+                                <a asp-action="Creative" class="text-black">
+                                    <img src="~/images/Intractive & Creative Design-01-01.jpg" alt="Interactive and Creative Designs" class="service-image">
+                                    <h3 class="service-title fw-bold">Interactive and Creative Designs</h3>
+                                </a>
+                                <p class="service-intro">Enhance your business with interactive and creative designs that adapt to and reflect your brand.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="row">
+                            <div class="col-12 col-sm-6 col-lg-4 service-item">
+                                <a asp-action="Social" class="text-black">
+                                    <img src="~/images/2352644-01.jpg" alt="Social Media Management" class="service-image">
+                                    <h3 class="service-title fw-bold">Social Media Management</h3>
+                                </a>
+                                <p class="service-intro">Engage your brand with effective social media strategies provided by Digital Edge.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="row">
+                            <div class="col-12 col-sm-6 col-lg-4 service-item">
+                                <a asp-action="Mobile" class="text-black">
+                                    <img src="~/images/Mobile App Development.jpg" alt="Mobile App Development" class="service-image">
+                                    <h3 class="service-title fw-bold">Mobile App Development</h3>
+                                </a>
+                                <p class="service-intro">We create innovative mobile applications (Android App Development / iOS App Development) that provide seamless user experiences and drive engagement.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev d-none" type="button" data-bs-target="#servicesCarousel" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next d-none" type="button" data-bs-target="#servicesCarousel" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="px-3 d-none d-md-block">
+    <div class="col-12 pt-3">
+        <div class="container">
+            <div class="titles">
+                <h6>OUR SERVICES</h6>
+                <p class="text-yellow">We are Master of.</p>
+            </div>
+            <div class="row">
+                <div class="col-12 col-sm-6 col-lg-4 service-item">
+                    <a asp-action="Software" class="text-black">
+                        <img src="~/images/Software Development.jpg" alt="Custom Software Development Solutions for Businesses" class="service-image">
+                        <h3 class="service-title fw-bold">Software Development</h3>
+                    </a>
+                    <p class="service-intro">We offer tailored <a asp-action="Software" class="text-black">software solutions</a> to meet your unique business needs, ensuring efficiency and business logic. We specialize in agile methodologies, ensuring rapid deployment and scalability.</p>
+                </div>
+
+                <div class="col-12 col-sm-6 col-lg-4 service-item">
+                    <a asp-action="ERP" class="text-black">
+                        <img src="~/images/ERP-01.jpg" alt="Enterprise Resource Planning Software Solutions" class="service-image">
+                        <h3 class="service-title fw-bold">Enterprise Resource Planning</h3>
+                    </a>
+                    <p class="service-intro">Utilize your staff's skills, hardware, and software to increase productivity and simplify daily processes with our ERP solutions.</p>
+                </div>
+
+                <div class="col-12 col-sm-6 col-lg-4 service-item">
+                    <a href="Web" class="text-black">
+                        <img src="~/images/Web Development-01.jpg" alt="Professional Web Development Services for Businesses" class="service-image">
+                        <h3 class="service-title fw-bold">Web Development</h3>
+                    </a>
+                    <p class="service-intro">We create responsive and engaging websites that enhance user experience and drive conversions.</p>
+                </div>
+
+                <div class="col-12 col-sm-6 col-lg-4 service-item">
+                    <a asp-action="Mobile" class="text-black">
+                        <img src="~/images/Mobile App Development.jpg" alt="Innovative Mobile App Development for iOS and Android" class="service-image">
+                        <h3 class="service-title fw-bold">Mobile App Development</h3>
+                    </a>
+                    <p class="service-intro">We create innovative mobile applications (Android App Development / iOS App Development) that provide seamless user experiences and drive engagement.</p>
+                </div>
+
+                <div class="col-12 col-sm-6 col-lg-4 service-item">
+                    <a asp-action="Creative" class="text-black">
+                        <img src="~/images/Intractive & Creative Design-01-01.jpg" alt="Interactive and Creative Design Services" class="service-image">
+                        <h3 class="service-title fw-bold">Interactive and Creative Designs</h3>
+                    </a>
+                    <p class="service-intro">Enhance your business with interactive and creative designs that adapt to and reflect your brand.</p>
+                </div>
+
+                <div class="col-12 col-sm-6 col-lg-4 service-item">
+                    <a asp-action="Social" class="text-black">
+                        <img src="~/images/2352644-01.jpg" alt="Social Media Management Services for Businesses" class="service-image">
+                        <h3 class="service-title fw-bold">Social Media Management</h3>
+                    </a>
+                    <p class="service-intro">Engage your brand with effective social media strategies provided by Digital Edge.</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- end our-awards -->
+<section class="about-us-section bg-light pb-3">
+
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center mb-2">
+            <div class="titles">
+                <h6>ABOUT Us</h6>
+                <p class="text-yellow">What we have achieved</p>
+            </div>
+        </div>
+        <div class="row align-items-center pb-3">
+            <div class="col-md-6">
+                <img src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?ga=GA1.1.945843794.1726646547&semt=ais_hybrid" alt="About Us Image" class="img-fluid rounded">
+            </div>
+            <div class="col-md-6">
+                <div class="about-us-content">
+                    <div class="stats d-flex flex-wrap mt-3 mt-md-0">
+                        <div class="stat-item text-center p-2 col-6 col-md-4" data-aos="fade-up" data-aos-delay="100">
+                            <strong class="fs-3 text-black">10+</strong>
+                            <p class="fs-5 text-wrap">Years of Experience</p>
+                        </div>
+                        <div class="stat-item text-center p-2 col-6 col-md-4" data-aos="fade-up" data-aos-delay="200">
+                            <strong class="fs-3 text-black">20+</strong>
+                            <p class="fs-5 text-wrap">Ecommerce Developed</p>
+                        </div>
+                        <div class="stat-item text-center p-2 col-6 col-md-4" data-aos="fade-up" data-aos-delay="300">
+                            <strong class="fs-3 text-black">100+</strong>
+                            <p class="fs-5 text-wrap">Websites Developed</p>
+                        </div>
+                        <div class="stat-item text-center p-2 col-6 col-md-4" data-aos="fade-up" data-aos-delay="400">
+                            <strong class="fs-3 text-black">20+</strong>
+                            <p class="fs-5 text-wrap">Mobile Apps Developed</p>
+                        </div>
+                        <div class="stat-item text-center p-2 col-6 col-md-4" data-aos="fade-up" data-aos-delay="500">
+                            <strong class="fs-3 text-black">10+</strong>
+                            <p class="fs-5 text-wrap">ERP Software Developed</p>
+                        </div>
+
+                        <div class="stat-item text-center p-2 col-6 col-md-4" data-aos="fade-up" data-aos-delay="800">
+                            <strong class="fs-3 text-black">50+</strong>
+                            <p class="fs-5">Social Media Campaigns</p>
+                        </div>
+                        <div class="stat-item text-center p-2 col-6 col-md-4" data-aos="fade-up" data-aos-delay="600">
+                            <strong class="fs-3 text-black">10+</strong>
+                            <p class="fs-5 text-wrap">Custom Software Developed</p>
+                        </div>
+                        @* <div class="stat-item text-center p-2 col-6 col-md-4" data-aos="fade-up" data-aos-delay="700">
+                        <strong class="fs-3 text-black">10+</strong>
+                        <p class="fs-5 text-wrap">Dedicated Developers</p>
+                        </div> *@
+
+                        <div class="stat-item text-center p-2 col-6 col-md-4" data-aos="fade-up" data-aos-delay="900">
+                            <strong class="fs-3 text-black">4.7/5</strong>
+                            <p class="fs-5 text-wrap text-black">Rated on Google</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="works">
+    <div class="container">
+        <ul>
+            <li>
+                <div class="titles">
+                    <h2>Explore Digital Edge</h2>
+                    <p>
+                        We're constantly updating ourselves with the newest trends and technologies to boost your
+                        business.
+                    </p>
+                    <div class="custom-btn"><a href="Home/Service">See all Services<span></span> <i></i></a></div>
+                </div>
+            </li>
+            <li>
+                <div class="project-box">
+                    <figure class="project-image reveal-effect masker wow">
+                        <img src="images/aminu.jpg"
+                             alt="Aminu Skin Care eCommerce Website"
+                             width="100%"
+                             height="auto" />
+                    </figure>
+                    <div class="project-content">
+                        <h3><a href="https://aminu.life/" target="_blank" rel="nofollow">Aminu</a></h3>
+                        <small>Website Skin Care - eCommerce</small>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="project-box">
+                    <figure class="project-image reveal-effect masker wow">
+                        <img src="images/Killer.jpg"
+                             alt="Killer Store Locator Dynamic Website"
+                             width="100%"
+                             height="auto" />
+                    </figure>
+                    <div class="project-content">
+                        <h3>
+                            <a href="https://www.killerjeans.com/store-locator" target="_blank" rel="nofollow">
+                                Killer Store Locator
+                            </a>
+                        </h3>
+                        <small>Website Killer Store Locator - Dynamic</small>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="project-box">
+                    <figure class="project-image reveal-effect masker wow">
+                        <img src="images/Passion Indulge.jpg"
+                             alt="Passion Indulge Beauty eCommerce Website"
+                             width="100%"
+                             height="auto" />
+                    </figure>
+                    <div class="project-content">
+                        <h3><a href="https://passionindulge.com/" target="_blank" rel="nofollow">Passion Indulge</a></h3>
+                        <small>Website Beauty & Skin Care — eCommerce</small>
+                    </div>
+                </div>
+            </li>
+            @* <li>
+            <div class="project-box">
+            <figure class="project-image reveal-effect masker wow">
+            <img src="images/kankotri.jpg" alt="Kankotri Invitation" />
+            </figure>
+            <div class="project-content">
+            <h3><a href="http://kankotrinvites.in/" target="_blank" rel="nofollow">Kankotri Invitation</a></h3>
+            <small>Website Invitation cards - Static</small>
+            </div>
+            </div>
+            </li> *@
+        </ul>
+    </div>
+</section>
+
+
+<section class="process pb-5 bg-light">
+    <div class="container">
+        <div class="titles">
+            <h6>HOW WE PROCESS</h6>
+            <p class="text-yellow text-bold">Our Development Process</p>
+        </div>
+        <div class="row">
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body text-start">
+                        <i class="fas fa-lightbulb fa-3x text-yellow mb-3"></i>
+                        <h5 class="card-title">1. Ideation & Planning</h5>
+                        <p class="card-text">We brainstorm ideas and create a detailed project plan based on your requirements.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body text-start">
+                        <i class="fas fa-pencil-ruler fa-3x text-yellow mb-3"></i>
+                        <h5 class="card-title">2. Design & Prototyping</h5>
+                        <p class="card-text">Our designers create intuitive UI/UX designs and interactive prototypes for your approval.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body text-start">
+                        <i class="fas fa-code fa-3x text-yellow mb-3"></i>
+                        <h5 class="card-title">3. Development</h5>
+                        <p class="card-text">Our experienced developers bring the designs to life with clean, efficient code.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body text-start">
+                        <i class="fas fa-vial fa-3x text-yellow mb-3"></i>
+                        <h5 class="card-title">4. Testing & QA</h5>
+                        <p class="card-text">Rigorous testing ensures your app is bug-free and performs optimally across devices.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body text-start">
+                        <i class="fas fa-rocket fa-3x text-yellow mb-3"></i>
+                        <h5 class="card-title">5. Deployment</h5>
+                        <p class="card-text">We handle the app store submission process and ensure a smooth launch.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body text-start">
+                        <i class="fas fa-cogs fa-3x text-yellow mb-3"></i>
+                        <h5 class="card-title">6. Maintenance & Support</h5>
+                        <p class="card-text">We provide ongoing support and updates to keep your app running smoothly.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- end works -->
+<!-- <section class="showreel" data-color="dark">
+    <div class="container">
+        <div class="video reveal-effect masker wow">
+            <video src="videos/Digitaledgetech.mp4" autoplay loop muted></video>
+        </div>
+    </div>
+</section> -->
+<!-- end showreel -->
+<section class="logos">
+    <div class="container">
+        <div class="titles">
+            <h6>SELECTED CLIENTS</h6>
+            <p>Some brands that instilled their trust in us.</p>
+        </div>
+    </div>
+    <!-- end container -->
+</section>
+<div class="company-logo">
+    <div class="container">
+        <div class="main-logo-section">
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/Baskin-and-robbins.png" onclick="newtab1()"
+                     alt="Baskin-and-robbins">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/Aminu.png" onclick="newtab2()"
+                     alt="Aminu" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/Ashland.png" onclick="newtab3()"
+                     alt="Ashland" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/Brooklyn-creamery.png"
+                     onclick="newtab4()" alt="Brooklyn-creamery" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/DishTV.png" onclick="newtab5()"
+                     alt="DishTV" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/happy-socks.png" onclick="newtab6()"
+                     alt="happy-socks" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/ICICI-prudential.png" onclick="newtab7()"
+                     alt="ICICI-prudential" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/Integriti.png" onclick="newtab8()"
+                     alt="Integriti" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/Killer-jeans.png" onclick="newtab9()"
+                     alt="Killer-jeans" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/kkcl.png" onclick="newtab10()" alt="kkcl"
+                     class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/Mangal.png" onclick="newtab11()"
+                     alt="Mangal" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/Michaleson-grants.png"
+                     onclick="newtab12()" alt="Michaleson" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/Passion-indulge.png" onclick="newtab13()"
+                     alt="Passion" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/Reliance.png"
+                     alt="Reliance" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/Sahara-star.png" onclick="newtab15()"
+                     alt="Sahara" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/satco.png" onclick="newtab16()"
+                     alt="satco" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/Satko.png"
+                     alt="Satko" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/Voltup.png" onclick="newtab18()"
+                     alt="Voltup" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <img src="images/Final Logos 90 x 90/Yes-bank.png" onclick="newtab19()"
+                     alt="Yes-bank" class="img-fluid">
+            </div>
+            <div class="img-logo-icon">
+                <div class="view-all-section">
+                    <!-- <h5>View all</h5> -->
+                    <a href="/Home/Clientele">
+                        <!-- <span class="iconify" data-icon="akar-icons:plus"></span> -->
+                        <img src="images/View-all.png" alt="View All">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end logos -->
+<section class="work-with-us">
+    <div class="container wow fadeInUp">
+        <h6>WORK WITH PRO TEAM</h6>
+        <div class="super-hero">
+            <h2>Want to join the superheroes league?</h2>
+            <p>
+                Email us your C.V. with your super powers; may it be designing,
+                coding, social media management, sales or marketing...
+            </p>
+            <h1>We welcome all.</h1>
+        </div>
+        <div class="inner-fadeup-logo pro-team">
+            <span class="iconify" data-icon="dashicons:email-alt" id="mail-icon"></span>
+            <a href="mailto:info@digitaledgetech.in">careers@digitaledgetech.in</a>
+        </div>
+        <small>Or</small>
+        <div class="inner-fadeup-logo pro-team">
+            <span class="iconify" data-icon="bx:bx-phone-call" id="call-icon"></span>
+            <a href="tel:+91 9152889989">+91 9152889989</a>
+        </div>
+    </div>
+    <!-- end container -->
+</section>
+<!-- end work-with-us -->
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/@@popperjs/core@2.11.6/dist/umd/popper.min.js" defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js" defer></script>
+    <script src="https://cdn.rawgit.com/michalsnik/aos/2.3.1/dist/aos.js" defer></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#servicesCarousel').carousel({
+                interval: 3000,
+                ride: 'carousel'
+            });
+        });
+    </script>
+}

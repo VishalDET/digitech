@@ -1,0 +1,7 @@
+[PHP]
+open_basedir="G:/PleskVhosts//digitaledgetech.in\;C:\Windows\Temp\"
+error_reporting=22519
+safe_mode=off
+SMTP="relay-hosting.secureserver.net"
+sendmail_from="noreply@p3nwvpweb099.shr.prod.phx3.secureserver.net"
+error_log="G:\PleskVhosts\digitaledgetech.in\logs\php_errors\digitaledgetech.in\php_error.log"

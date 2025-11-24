@@ -1,0 +1,1133 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Digitaledgetech.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Digitaledgetech.q8x2yrkftx.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\audio\\link.mp3",
+      "PackagePath": "staticwebassets\\audio\\link.mp3"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\css\\Social.css",
+      "PackagePath": "staticwebassets\\css\\Social.css"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\css\\fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\fancybox.min.css"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\css\\odometer.min.css",
+      "PackagePath": "staticwebassets\\css\\odometer.min.css"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\css\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\css\\swiper.min.css"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\d2h\\1day.png",
+      "PackagePath": "staticwebassets\\d2h\\1day.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\d2h\\3days.png",
+      "PackagePath": "staticwebassets\\d2h\\3days.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\d2h\\5days.png",
+      "PackagePath": "staticwebassets\\d2h\\5days.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\d2h\\7days.png",
+      "PackagePath": "staticwebassets\\d2h\\7days.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\d2h\\SwitchOff.png",
+      "PackagePath": "staticwebassets\\d2h\\SwitchOff.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\d2h\\apple-black-logo.png",
+      "PackagePath": "staticwebassets\\d2h\\apple-black-logo.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\d2h\\facebook.png",
+      "PackagePath": "staticwebassets\\d2h\\facebook.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\d2h\\footer.png",
+      "PackagePath": "staticwebassets\\d2h\\footer.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\d2h\\instagram.png",
+      "PackagePath": "staticwebassets\\d2h\\instagram.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\d2h\\logo.png",
+      "PackagePath": "staticwebassets\\d2h\\logo.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\d2h\\playstore.png",
+      "PackagePath": "staticwebassets\\d2h\\playstore.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\d2h\\process.png",
+      "PackagePath": "staticwebassets\\d2h\\process.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\d2h\\tv-1.png",
+      "PackagePath": "staticwebassets\\d2h\\tv-1.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\d2h\\twitter.png",
+      "PackagePath": "staticwebassets\\d2h\\twitter.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\d2h\\watcho-logo.png",
+      "PackagePath": "staticwebassets\\d2h\\watcho-logo.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\fonts\\Mont-Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\Mont-Bold.eot"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\fonts\\Mont-Bold.svg",
+      "PackagePath": "staticwebassets\\fonts\\Mont-Bold.svg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\fonts\\Mont-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Mont-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\fonts\\Mont-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Mont-Bold.woff"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\fonts\\Mont-Heavy.eot",
+      "PackagePath": "staticwebassets\\fonts\\Mont-Heavy.eot"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\fonts\\Mont-Heavy.svg",
+      "PackagePath": "staticwebassets\\fonts\\Mont-Heavy.svg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\fonts\\Mont-Heavy.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Mont-Heavy.ttf"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\fonts\\Mont-Heavy.woff",
+      "PackagePath": "staticwebassets\\fonts\\Mont-Heavy.woff"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\fonts\\Mont-Regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\Mont-Regular.eot"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\fonts\\Mont-Regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\Mont-Regular.svg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\fonts\\Mont-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Mont-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\fonts\\Mont-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\Mont-Regular.woff"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\ico\\favicon.png",
+      "PackagePath": "staticwebassets\\ico\\favicon.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\10.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\12.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\13.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\15.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\17.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\17.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\18.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\18.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\19.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\19.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\2.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\20.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\20.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\21.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\21.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\22.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\22.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\23.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\23.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\24.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\24.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\25.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\25.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\26.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\26.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\27.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\27.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\28.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\28.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\29.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\29.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\30.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\30.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\31.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\31.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\32.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\32.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\33.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\33.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\34.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\34.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\35.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\35.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\36.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\36.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\37.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\37.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\38.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\38.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\39.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\39.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\4.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\40.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\40.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\41.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\41.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\42.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\42.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\43.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\43.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\44.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\44.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\44.png",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\44.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\46.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\46.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\47.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\47.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\48.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\48.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\49.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\49.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\50.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\50.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\51.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\51.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\52.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\52.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\53.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\53.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\54.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\54.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\55.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\55.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\56.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\56.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\57.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\57.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\58.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\58.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\59.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\59.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\6.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\60.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\60.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\61.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\61.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\62.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\62.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\63.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\63.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\64.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\64.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\65.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\65.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\66.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\66.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\67.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\67.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\68.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\68.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\69.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\69.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\70.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\70.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\71.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\71.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\72.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\72.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\73.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\73.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\74.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\74.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\8.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\120x120_Final\\Final.psd",
+      "PackagePath": "staticwebassets\\images\\120x120_Final\\Final.psd"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\2352644-01.jpg",
+      "PackagePath": "staticwebassets\\images\\2352644-01.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\2352644-01.png",
+      "PackagePath": "staticwebassets\\images\\2352644-01.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\AI.jpg",
+      "PackagePath": "staticwebassets\\images\\AI.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\AMINU.jpg",
+      "PackagePath": "staticwebassets\\images\\AMINU.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Arrow.png",
+      "PackagePath": "staticwebassets\\images\\Arrow.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\BannerM_05.gif",
+      "PackagePath": "staticwebassets\\images\\BannerM_05.gif"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Banner_02.jpg",
+      "PackagePath": "staticwebassets\\images\\Banner_02.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Banner_02_new.gif",
+      "PackagePath": "staticwebassets\\images\\Banner_02_new.gif"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Banner_03.gif",
+      "PackagePath": "staticwebassets\\images\\Banner_03.gif"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Banner_03_new.gif",
+      "PackagePath": "staticwebassets\\images\\Banner_03_new.gif"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Banner_05.gif",
+      "PackagePath": "staticwebassets\\images\\Banner_05.gif"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Banner_05_new.gif",
+      "PackagePath": "staticwebassets\\images\\Banner_05_new.gif"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Cloud computing.png",
+      "PackagePath": "staticwebassets\\images\\Cloud computing.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\DET Mobile Application Development.png",
+      "PackagePath": "staticwebassets\\images\\DET Mobile Application Development.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\DET_ social media.png",
+      "PackagePath": "staticwebassets\\images\\DET_ social media.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Decision Making.png",
+      "PackagePath": "staticwebassets\\images\\Decision Making.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Design_01.png",
+      "PackagePath": "staticwebassets\\images\\Design_01.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Desktop.png",
+      "PackagePath": "staticwebassets\\images\\Desktop.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Dots.png",
+      "PackagePath": "staticwebassets\\images\\Dots.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\ERP-01.jpg",
+      "PackagePath": "staticwebassets\\images\\ERP-01.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\ERP-01.png",
+      "PackagePath": "staticwebassets\\images\\ERP-01.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\ERP_New.png",
+      "PackagePath": "staticwebassets\\images\\ERP_New.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\Aminu.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\Aminu.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\Ashland.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\Ashland.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\Baskin-and-robbins.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\Baskin-and-robbins.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\Brooklyn-creamery.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\Brooklyn-creamery.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\DishTV.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\DishTV.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\ICICI-prudential.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\ICICI-prudential.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\Integriti.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\Integriti.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\Killer-jeans.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\Killer-jeans.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\Mangal.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\Mangal.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\Michaleson-grants.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\Michaleson-grants.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\Passion-indulge.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\Passion-indulge.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\Reliance.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\Reliance.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\Sahara-star.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\Sahara-star.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\Satko.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\Satko.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\Voltup.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\Voltup.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\Yes-bank.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\Yes-bank.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\drcom.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\drcom.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\happy-socks.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\happy-socks.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\kkcl.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\kkcl.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\mbh.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\mbh.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\satco.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\satco.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\synfoshop.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\synfoshop.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\vetranova.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\vetranova.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Final Logos 90 x 90\\vetranova1.png",
+      "PackagePath": "staticwebassets\\images\\Final Logos 90 x 90\\vetranova1.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Forecasting.png",
+      "PackagePath": "staticwebassets\\images\\Forecasting.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Intractive & Creative Design-01-01.jpg",
+      "PackagePath": "staticwebassets\\images\\Intractive & Creative Design-01-01.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Intractive & Creative Design-01-01.png",
+      "PackagePath": "staticwebassets\\images\\Intractive & Creative Design-01-01.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Killer.jpg",
+      "PackagePath": "staticwebassets\\images\\Killer.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Laptop.png",
+      "PackagePath": "staticwebassets\\images\\Laptop.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Mobile App Dev.jpg",
+      "PackagePath": "staticwebassets\\images\\Mobile App Dev.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Mobile App Development.jpg",
+      "PackagePath": "staticwebassets\\images\\Mobile App Development.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Mobile App Development.png",
+      "PackagePath": "staticwebassets\\images\\Mobile App Development.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Mobile Application Development Banner.png",
+      "PackagePath": "staticwebassets\\images\\Mobile Application Development Banner.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Mobile Application Development Banner.webp",
+      "PackagePath": "staticwebassets\\images\\Mobile Application Development Banner.webp"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Mobile-dev.png",
+      "PackagePath": "staticwebassets\\images\\Mobile-dev.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\New_Banner_02.gif",
+      "PackagePath": "staticwebassets\\images\\New_Banner_02.gif"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\New_Banner_05.gif",
+      "PackagePath": "staticwebassets\\images\\New_Banner_05.gif"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\New_Bannerr_05.gif",
+      "PackagePath": "staticwebassets\\images\\New_Bannerr_05.gif"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Passion Indulge.jpg",
+      "PackagePath": "staticwebassets\\images\\Passion Indulge.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Refurbished products.png",
+      "PackagePath": "staticwebassets\\images\\Refurbished products.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Responsive.png",
+      "PackagePath": "staticwebassets\\images\\Responsive.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Server.png",
+      "PackagePath": "staticwebassets\\images\\Server.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Service Banner.jpg",
+      "PackagePath": "staticwebassets\\images\\Service Banner.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Software Development.jpg",
+      "PackagePath": "staticwebassets\\images\\Software Development.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Software Development.png",
+      "PackagePath": "staticwebassets\\images\\Software Development.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\TBC-01.jpg",
+      "PackagePath": "staticwebassets\\images\\TBC-01.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\View-all.png",
+      "PackagePath": "staticwebassets\\images\\View-all.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Web Development-01.jpg",
+      "PackagePath": "staticwebassets\\images\\Web Development-01.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\Web Development-01.png",
+      "PackagePath": "staticwebassets\\images\\Web Development-01.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\about2.jpg",
+      "PackagePath": "staticwebassets\\images\\about2.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\acedge-dash-2.PNG",
+      "PackagePath": "staticwebassets\\images\\acedge-dash-2.PNG"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\adaptive.png",
+      "PackagePath": "staticwebassets\\images\\adaptive.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\analysis.png",
+      "PackagePath": "staticwebassets\\images\\analysis.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\aq.png",
+      "PackagePath": "staticwebassets\\images\\aq.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\automation.svg",
+      "PackagePath": "staticwebassets\\images\\automation.svg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\blog01.jpg",
+      "PackagePath": "staticwebassets\\images\\blog01.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\blog02.jpg",
+      "PackagePath": "staticwebassets\\images\\blog02.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\blog02.png",
+      "PackagePath": "staticwebassets\\images\\blog02.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\blog03.jpg",
+      "PackagePath": "staticwebassets\\images\\blog03.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\blog04.jpg",
+      "PackagePath": "staticwebassets\\images\\blog04.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\blog05.jpg",
+      "PackagePath": "staticwebassets\\images\\blog05.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\blog06.jpg",
+      "PackagePath": "staticwebassets\\images\\blog06.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\business-plan.png",
+      "PackagePath": "staticwebassets\\images\\business-plan.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\call.png",
+      "PackagePath": "staticwebassets\\images\\call.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\card-images\\Best Seller-04.png",
+      "PackagePath": "staticwebassets\\images\\card-images\\Best Seller-04.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\card-images\\Challan-03.png",
+      "PackagePath": "staticwebassets\\images\\card-images\\Challan-03.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\card-images\\Graph-07.png",
+      "PackagePath": "staticwebassets\\images\\card-images\\Graph-07.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\card-images\\best-seller.png",
+      "PackagePath": "staticwebassets\\images\\card-images\\best-seller.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\card-images\\dash-design.png",
+      "PackagePath": "staticwebassets\\images\\card-images\\dash-design.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\card-images\\dash.png",
+      "PackagePath": "staticwebassets\\images\\card-images\\dash.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\card-images\\dash2.png",
+      "PackagePath": "staticwebassets\\images\\card-images\\dash2.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\card-images\\dashboards2-02.png",
+      "PackagePath": "staticwebassets\\images\\card-images\\dashboards2-02.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\card-images\\popular -products-06.png",
+      "PackagePath": "staticwebassets\\images\\card-images\\popular -products-06.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\card-images\\purchase.png",
+      "PackagePath": "staticwebassets\\images\\card-images\\purchase.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\cms.png",
+      "PackagePath": "staticwebassets\\images\\cms.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\company.jpg",
+      "PackagePath": "staticwebassets\\images\\company.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\database.png",
+      "PackagePath": "staticwebassets\\images\\database.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\deliver.png",
+      "PackagePath": "staticwebassets\\images\\deliver.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\domain.png",
+      "PackagePath": "staticwebassets\\images\\domain.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\email.png",
+      "PackagePath": "staticwebassets\\images\\email.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\hosting.png",
+      "PackagePath": "staticwebassets\\images\\hosting.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\icon-gotop.svg",
+      "PackagePath": "staticwebassets\\images\\icon-gotop.svg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\icon-map-marker.svg",
+      "PackagePath": "staticwebassets\\images\\icon-map-marker.svg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\icon.png",
+      "PackagePath": "staticwebassets\\images\\icon.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\icon01.svg",
+      "PackagePath": "staticwebassets\\images\\icon01.svg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\icon02.svg",
+      "PackagePath": "staticwebassets\\images\\icon02.svg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\icon03.svg",
+      "PackagePath": "staticwebassets\\images\\icon03.svg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\icon04.svg",
+      "PackagePath": "staticwebassets\\images\\icon04.svg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\icon05.svg",
+      "PackagePath": "staticwebassets\\images\\icon05.svg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\icon06.svg",
+      "PackagePath": "staticwebassets\\images\\icon06.svg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\icon07.svg",
+      "PackagePath": "staticwebassets\\images\\icon07.svg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\icon08.svg",
+      "PackagePath": "staticwebassets\\images\\icon08.svg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\icons8-facebook-60.png",
+      "PackagePath": "staticwebassets\\images\\icons8-facebook-60.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\icons8-instagram-60.png",
+      "PackagePath": "staticwebassets\\images\\icons8-instagram-60.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\integrated system.png",
+      "PackagePath": "staticwebassets\\images\\integrated system.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\kankotri.jpg",
+      "PackagePath": "staticwebassets\\images\\kankotri.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\light-bulb.jpg",
+      "PackagePath": "staticwebassets\\images\\light-bulb.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\link.png",
+      "PackagePath": "staticwebassets\\images\\link.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\maintainance.png",
+      "PackagePath": "staticwebassets\\images\\maintainance.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\maintenance.png",
+      "PackagePath": "staticwebassets\\images\\maintenance.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\maintenancee.png",
+      "PackagePath": "staticwebassets\\images\\maintenancee.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\marvin-meyer-SYTO3xs06fU-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\marvin-meyer-SYTO3xs06fU-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\newclients.jpg",
+      "PackagePath": "staticwebassets\\images\\newclients.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\ok.png",
+      "PackagePath": "staticwebassets\\images\\ok.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\online-shop.png",
+      "PackagePath": "staticwebassets\\images\\online-shop.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\operation.png",
+      "PackagePath": "staticwebassets\\images\\operation.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\passionInduldge.jpg",
+      "PackagePath": "staticwebassets\\images\\passionInduldge.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\performfast.png",
+      "PackagePath": "staticwebassets\\images\\performfast.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\images\\placeholder.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\product-lauch.png",
+      "PackagePath": "staticwebassets\\images\\product-lauch.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\quality-assurance.png",
+      "PackagePath": "staticwebassets\\images\\quality-assurance.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\quote-bg.svg",
+      "PackagePath": "staticwebassets\\images\\quote-bg.svg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\signature.png",
+      "PackagePath": "staticwebassets\\images\\signature.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\social.jpg",
+      "PackagePath": "staticwebassets\\images\\social.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\solution.png",
+      "PackagePath": "staticwebassets\\images\\solution.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\ss.png",
+      "PackagePath": "staticwebassets\\images\\ss.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\support.png",
+      "PackagePath": "staticwebassets\\images\\support.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\thank-you-image.png",
+      "PackagePath": "staticwebassets\\images\\thank-you-image.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\trustus.jpg",
+      "PackagePath": "staticwebassets\\images\\trustus.jpg"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\ttac.png",
+      "PackagePath": "staticwebassets\\images\\ttac.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\unique.png",
+      "PackagePath": "staticwebassets\\images\\unique.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\value.png",
+      "PackagePath": "staticwebassets\\images\\value.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\webDesign.png",
+      "PackagePath": "staticwebassets\\images\\webDesign.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\webDevelopment.png",
+      "PackagePath": "staticwebassets\\images\\webDevelopment.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\webdeliver.png",
+      "PackagePath": "staticwebassets\\images\\webdeliver.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\webtools.png",
+      "PackagePath": "staticwebassets\\images\\webtools.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\webunique.png",
+      "PackagePath": "staticwebassets\\images\\webunique.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\whatsapp.png",
+      "PackagePath": "staticwebassets\\images\\whatsapp.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\workwebsite.png",
+      "PackagePath": "staticwebassets\\images\\workwebsite.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\images\\ws.png",
+      "PackagePath": "staticwebassets\\images\\ws.png"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\js\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\js\\TweenMax.min.js"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\js\\contact.form.min.js",
+      "PackagePath": "staticwebassets\\js\\contact.form.min.js"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\js\\fancybox.min.js",
+      "PackagePath": "staticwebassets\\js\\fancybox.min.js"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.min.js"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\js\\jquery.form.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.form.min.js"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\js\\odometer.min.js",
+      "PackagePath": "staticwebassets\\js\\odometer.min.js"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\js\\swiper.min.js"
+    },
+    {
+      "Id": "D:\\Vishal\\new_pro\\digi\\Digitaledgetech\\Digitaledgetech\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Digitaledgetech.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Digitaledgetech.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Digitaledgetech.props",
+      "PackagePath": "build\\Digitaledgetech.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Digitaledgetech.props",
+      "PackagePath": "buildMultiTargeting\\Digitaledgetech.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Digitaledgetech.props",
+      "PackagePath": "buildTransitive\\Digitaledgetech.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

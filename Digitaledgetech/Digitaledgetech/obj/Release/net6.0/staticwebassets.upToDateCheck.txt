@@ -1,0 +1,276 @@
+wwwroot\audio\link.mp3
+wwwroot\css\animate.min.css
+wwwroot\css\bootstrap.min.css
+wwwroot\css\fancybox.min.css
+wwwroot\css\odometer.min.css
+wwwroot\css\owl.carousel.css
+wwwroot\css\owl.carousel.min.css
+wwwroot\css\owl.theme.default.css
+wwwroot\css\owl.theme.default.min.css
+wwwroot\css\Social.css
+wwwroot\css\style.css
+wwwroot\css\swiper.min.css
+wwwroot\d2h\1day.png
+wwwroot\d2h\3days.png
+wwwroot\d2h\5days.png
+wwwroot\d2h\7days.png
+wwwroot\d2h\apple-black-logo.png
+wwwroot\d2h\facebook.png
+wwwroot\d2h\footer.png
+wwwroot\d2h\instagram.png
+wwwroot\d2h\logo.png
+wwwroot\d2h\playstore.png
+wwwroot\d2h\process.png
+wwwroot\d2h\SwitchOff.png
+wwwroot\d2h\tv-1.png
+wwwroot\d2h\twitter.png
+wwwroot\d2h\watcho-logo.png
+wwwroot\favicon.ico
+wwwroot\fonts\Mont-Bold.eot
+wwwroot\fonts\Mont-Bold.svg
+wwwroot\fonts\Mont-Bold.ttf
+wwwroot\fonts\Mont-Bold.woff
+wwwroot\fonts\Mont-Heavy.eot
+wwwroot\fonts\Mont-Heavy.svg
+wwwroot\fonts\Mont-Heavy.ttf
+wwwroot\fonts\Mont-Heavy.woff
+wwwroot\fonts\Mont-Regular.eot
+wwwroot\fonts\Mont-Regular.svg
+wwwroot\fonts\Mont-Regular.ttf
+wwwroot\fonts\Mont-Regular.woff
+wwwroot\ico\favicon.png
+wwwroot\images\120x120_Final\10.jpg
+wwwroot\images\120x120_Final\12.jpg
+wwwroot\images\120x120_Final\13.jpg
+wwwroot\images\120x120_Final\15.jpg
+wwwroot\images\120x120_Final\17.jpg
+wwwroot\images\120x120_Final\18.jpg
+wwwroot\images\120x120_Final\19.jpg
+wwwroot\images\120x120_Final\2.jpg
+wwwroot\images\120x120_Final\20.jpg
+wwwroot\images\120x120_Final\21.jpg
+wwwroot\images\120x120_Final\22.jpg
+wwwroot\images\120x120_Final\23.jpg
+wwwroot\images\120x120_Final\24.jpg
+wwwroot\images\120x120_Final\25.jpg
+wwwroot\images\120x120_Final\26.jpg
+wwwroot\images\120x120_Final\27.jpg
+wwwroot\images\120x120_Final\28.jpg
+wwwroot\images\120x120_Final\29.jpg
+wwwroot\images\120x120_Final\30.jpg
+wwwroot\images\120x120_Final\31.jpg
+wwwroot\images\120x120_Final\32.jpg
+wwwroot\images\120x120_Final\33.jpg
+wwwroot\images\120x120_Final\34.jpg
+wwwroot\images\120x120_Final\35.jpg
+wwwroot\images\120x120_Final\36.jpg
+wwwroot\images\120x120_Final\37.jpg
+wwwroot\images\120x120_Final\38.jpg
+wwwroot\images\120x120_Final\39.jpg
+wwwroot\images\120x120_Final\4.jpg
+wwwroot\images\120x120_Final\40.jpg
+wwwroot\images\120x120_Final\41.jpg
+wwwroot\images\120x120_Final\42.jpg
+wwwroot\images\120x120_Final\43.jpg
+wwwroot\images\120x120_Final\44.jpg
+wwwroot\images\120x120_Final\44.png
+wwwroot\images\120x120_Final\46.jpg
+wwwroot\images\120x120_Final\47.jpg
+wwwroot\images\120x120_Final\48.jpg
+wwwroot\images\120x120_Final\49.jpg
+wwwroot\images\120x120_Final\50.jpg
+wwwroot\images\120x120_Final\51.jpg
+wwwroot\images\120x120_Final\52.jpg
+wwwroot\images\120x120_Final\53.jpg
+wwwroot\images\120x120_Final\54.jpg
+wwwroot\images\120x120_Final\55.jpg
+wwwroot\images\120x120_Final\56.jpg
+wwwroot\images\120x120_Final\57.jpg
+wwwroot\images\120x120_Final\58.jpg
+wwwroot\images\120x120_Final\59.jpg
+wwwroot\images\120x120_Final\6.jpg
+wwwroot\images\120x120_Final\60.jpg
+wwwroot\images\120x120_Final\61.jpg
+wwwroot\images\120x120_Final\62.jpg
+wwwroot\images\120x120_Final\63.jpg
+wwwroot\images\120x120_Final\64.jpg
+wwwroot\images\120x120_Final\65.jpg
+wwwroot\images\120x120_Final\66.jpg
+wwwroot\images\120x120_Final\67.jpg
+wwwroot\images\120x120_Final\68.jpg
+wwwroot\images\120x120_Final\69.jpg
+wwwroot\images\120x120_Final\70.jpg
+wwwroot\images\120x120_Final\71.jpg
+wwwroot\images\120x120_Final\72.jpg
+wwwroot\images\120x120_Final\73.jpg
+wwwroot\images\120x120_Final\74.jpg
+wwwroot\images\120x120_Final\8.jpg
+wwwroot\images\120x120_Final\Final.psd
+wwwroot\images\2352644-01.jpg
+wwwroot\images\2352644-01.png
+wwwroot\images\about2.jpg
+wwwroot\images\acedge-dash-2.PNG
+wwwroot\images\adaptive.png
+wwwroot\images\AI.jpg
+wwwroot\images\AMINU.jpg
+wwwroot\images\analysis.png
+wwwroot\images\aq.png
+wwwroot\images\Arrow.png
+wwwroot\images\automation.svg
+wwwroot\images\Banner_02.jpg
+wwwroot\images\Banner_02_new.gif
+wwwroot\images\Banner_03.gif
+wwwroot\images\Banner_03_new.gif
+wwwroot\images\Banner_05.gif
+wwwroot\images\Banner_05_new.gif
+wwwroot\images\BannerM_05.gif
+wwwroot\images\blog01.jpg
+wwwroot\images\blog02.jpg
+wwwroot\images\blog02.png
+wwwroot\images\blog03.jpg
+wwwroot\images\blog04.jpg
+wwwroot\images\blog05.jpg
+wwwroot\images\blog06.jpg
+wwwroot\images\business-plan.png
+wwwroot\images\call.png
+wwwroot\images\card-images\Best Seller-04.png
+wwwroot\images\card-images\best-seller.png
+wwwroot\images\card-images\Challan-03.png
+wwwroot\images\card-images\dash.png
+wwwroot\images\card-images\dash2.png
+wwwroot\images\card-images\dashboards2-02.png
+wwwroot\images\card-images\dash-design.png
+wwwroot\images\card-images\Graph-07.png
+wwwroot\images\card-images\popular -products-06.png
+wwwroot\images\card-images\purchase.png
+wwwroot\images\Cloud computing.png
+wwwroot\images\cms.png
+wwwroot\images\company.jpg
+wwwroot\images\database.png
+wwwroot\images\Decision Making.png
+wwwroot\images\deliver.png
+wwwroot\images\Design_01.png
+wwwroot\images\Desktop.png
+wwwroot\images\DET Mobile Application Development.png
+wwwroot\images\DET_ social media.png
+wwwroot\images\domain.png
+wwwroot\images\Dots.png
+wwwroot\images\email.png
+wwwroot\images\ERP_New.png
+wwwroot\images\ERP-01.jpg
+wwwroot\images\ERP-01.png
+wwwroot\images\Final Logos 90 x 90\Aminu.png
+wwwroot\images\Final Logos 90 x 90\Ashland.png
+wwwroot\images\Final Logos 90 x 90\Baskin-and-robbins.png
+wwwroot\images\Final Logos 90 x 90\Brooklyn-creamery.png
+wwwroot\images\Final Logos 90 x 90\DishTV.png
+wwwroot\images\Final Logos 90 x 90\drcom.png
+wwwroot\images\Final Logos 90 x 90\happy-socks.png
+wwwroot\images\Final Logos 90 x 90\ICICI-prudential.png
+wwwroot\images\Final Logos 90 x 90\Integriti.png
+wwwroot\images\Final Logos 90 x 90\Killer-jeans.png
+wwwroot\images\Final Logos 90 x 90\kkcl.png
+wwwroot\images\Final Logos 90 x 90\Mangal.png
+wwwroot\images\Final Logos 90 x 90\mbh.png
+wwwroot\images\Final Logos 90 x 90\Michaleson-grants.png
+wwwroot\images\Final Logos 90 x 90\Passion-indulge.png
+wwwroot\images\Final Logos 90 x 90\Reliance.png
+wwwroot\images\Final Logos 90 x 90\Sahara-star.png
+wwwroot\images\Final Logos 90 x 90\satco.png
+wwwroot\images\Final Logos 90 x 90\Satko.png
+wwwroot\images\Final Logos 90 x 90\synfoshop.png
+wwwroot\images\Final Logos 90 x 90\vetranova.png
+wwwroot\images\Final Logos 90 x 90\vetranova1.png
+wwwroot\images\Final Logos 90 x 90\Voltup.png
+wwwroot\images\Final Logos 90 x 90\Yes-bank.png
+wwwroot\images\Forecasting.png
+wwwroot\images\hosting.png
+wwwroot\images\icon.png
+wwwroot\images\icon01.svg
+wwwroot\images\icon02.svg
+wwwroot\images\icon03.svg
+wwwroot\images\icon04.svg
+wwwroot\images\icon05.svg
+wwwroot\images\icon06.svg
+wwwroot\images\icon07.svg
+wwwroot\images\icon08.svg
+wwwroot\images\icon-gotop.svg
+wwwroot\images\icon-map-marker.svg
+wwwroot\images\icons8-facebook-60.png
+wwwroot\images\icons8-instagram-60.png
+wwwroot\images\integrated system.png
+wwwroot\images\Intractive & Creative Design-01-01.jpg
+wwwroot\images\Intractive & Creative Design-01-01.png
+wwwroot\images\kankotri.jpg
+wwwroot\images\Killer.jpg
+wwwroot\images\Laptop.png
+wwwroot\images\light-bulb.jpg
+wwwroot\images\link.png
+wwwroot\images\logo.png
+wwwroot\images\maintainance.png
+wwwroot\images\maintenance.png
+wwwroot\images\maintenancee.png
+wwwroot\images\marvin-meyer-SYTO3xs06fU-unsplash.jpg
+wwwroot\images\Mobile App Dev.jpg
+wwwroot\images\Mobile App Development.jpg
+wwwroot\images\Mobile App Development.png
+wwwroot\images\Mobile Application Development Banner.png
+wwwroot\images\Mobile Application Development Banner.webp
+wwwroot\images\Mobile-dev.png
+wwwroot\images\New_Banner_02.gif
+wwwroot\images\New_Banner_05.gif
+wwwroot\images\New_Bannerr_05.gif
+wwwroot\images\newclients.jpg
+wwwroot\images\ok.png
+wwwroot\images\online-shop.png
+wwwroot\images\operation.png
+wwwroot\images\Passion Indulge.jpg
+wwwroot\images\passionInduldge.jpg
+wwwroot\images\performfast.png
+wwwroot\images\placeholder.png
+wwwroot\images\product-lauch.png
+wwwroot\images\quality-assurance.png
+wwwroot\images\quote-bg.svg
+wwwroot\images\Refurbished products.png
+wwwroot\images\Responsive.png
+wwwroot\images\Server.png
+wwwroot\images\Service Banner.jpg
+wwwroot\images\signature.png
+wwwroot\images\social.jpg
+wwwroot\images\Software Development.jpg
+wwwroot\images\Software Development.png
+wwwroot\images\solution.png
+wwwroot\images\ss.png
+wwwroot\images\support.png
+wwwroot\images\TBC-01.jpg
+wwwroot\images\thank-you-image.png
+wwwroot\images\trustus.jpg
+wwwroot\images\ttac.png
+wwwroot\images\unique.png
+wwwroot\images\value.png
+wwwroot\images\View-all.png
+wwwroot\images\Web Development-01.jpg
+wwwroot\images\Web Development-01.png
+wwwroot\images\webdeliver.png
+wwwroot\images\webDesign.png
+wwwroot\images\webDevelopment.png
+wwwroot\images\webtools.png
+wwwroot\images\webunique.png
+wwwroot\images\whatsapp.png
+wwwroot\images\workwebsite.png
+wwwroot\images\ws.png
+wwwroot\js\bootstrap.min.js
+wwwroot\js\contact.form.min.js
+wwwroot\js\fancybox.min.js
+wwwroot\js\imagesloaded.pkgd.min.js
+wwwroot\js\isotope.min.js
+wwwroot\js\jquery.form.min.js
+wwwroot\js\jquery.min.js
+wwwroot\js\jquery.validate.min.js
+wwwroot\js\odometer.min.js
+wwwroot\js\owl.carousel.js
+wwwroot\js\owl.carousel.min.js
+wwwroot\js\scripts.js
+wwwroot\js\swiper.min.js
+wwwroot\js\TweenMax.min.js
+wwwroot\js\wow.min.js
