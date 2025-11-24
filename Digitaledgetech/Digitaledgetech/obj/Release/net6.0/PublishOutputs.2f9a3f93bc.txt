@@ -1,7 +1,0 @@
-E:\Kuldeep\Projects\Digitaledgetech\Digitaledgetech\obj\Release\net6.0\PubTmp\Out\Digitaledgetech.exe
-E:\Kuldeep\Projects\Digitaledgetech\Digitaledgetech\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
-E:\Kuldeep\Projects\Digitaledgetech\Digitaledgetech\obj\Release\net6.0\PubTmp\Out\appsettings.json
-E:\Kuldeep\Projects\Digitaledgetech\Digitaledgetech\obj\Release\net6.0\PubTmp\Out\Digitaledgetech.dll
-E:\Kuldeep\Projects\Digitaledgetech\Digitaledgetech\obj\Release\net6.0\PubTmp\Out\Digitaledgetech.deps.json
-E:\Kuldeep\Projects\Digitaledgetech\Digitaledgetech\obj\Release\net6.0\PubTmp\Out\Digitaledgetech.runtimeconfig.json
-E:\Kuldeep\Projects\Digitaledgetech\Digitaledgetech\obj\Release\net6.0\PubTmp\Out\Digitaledgetech.pdb
