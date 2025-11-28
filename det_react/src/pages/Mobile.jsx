@@ -18,54 +18,54 @@ const Mobile = () => {
                             <div className="row">
                                 <div className="col-6 col-md-4 mb-4">
                                     <div className="feature-box p-3 rounded">
-                                        <div className="d-flex justify-content-between w-100">
+                                        <div className="d-flex justify-content-between align-items-center w-100">
                                             <h4 className="mb-1 text-start">E-commerce Apps</h4>
-                                            <i className="fas fa-shopping-cart fa-2x text-yellow"></i>
+                                            <i className="fas fa-shopping-cart  text-yellow"></i>
                                         </div>
                                         <p className="text-dark mt-2 mb-0">Robust and scalable e-commerce app to enhance your online business.</p>
                                     </div>
                                 </div>
                                 <div className="col-6 col-md-4 mb-4">
                                     <div className="feature-box p-3 rounded">
-                                        <div className="d-flex justify-content-between w-100">
+                                        <div className="d-flex justify-content-between align-items-center w-100">
                                             <h4 className="mb-1 text-start">CRM Apps</h4>
-                                            <i className="fas fa-users fa-2x text-yellow"></i>
+                                            <i className="fas fa-users  text-yellow"></i>
                                         </div>
                                         <p className="text-dark mt-2 mb-0">Customer relationship management apps to streamline your business processes.</p>
                                     </div>
                                 </div>
                                 <div className="col-6 col-md-4 mb-4">
                                     <div className="feature-box p-3 rounded">
-                                        <div className="d-flex justify-content-between w-100">
+                                        <div className="d-flex justify-content-between  align-items-center w-100">
                                             <h4 className="mb-1 text-start">Healthcare Apps</h4>
-                                            <i className="fas fa-hospital fa-2x text-yellow"></i>
+                                            <i className="fas fa-hospital  text-yellow"></i>
                                         </div>
                                         <p className="text-dark mt-2 mb-0">Create healthcare applications to provide better patient care and management.</p>
                                     </div>
                                 </div>
                                 <div className="col-6 col-md-4 mb-4">
                                     <div className="feature-box p-3 rounded">
-                                        <div className="d-flex justify-content-between w-100">
+                                        <div className="d-flex justify-content-between align-items-center w-100">
                                             <h4 className="mb-1 text-start">Education Apps</h4>
-                                            <i className="fas fa-graduation-cap fa-2x text-yellow"></i>
+                                            <i className="fas fa-graduation-cap  text-yellow"></i>
                                         </div>
                                         <p className="text-dark mt-2 mb-0">Design educational apps to facilitate learning and improve educational outcomes.</p>
                                     </div>
                                 </div>
                                 <div className="col-6 col-md-4 mb-4">
                                     <div className="feature-box p-3 rounded">
-                                        <div className="d-flex justify-content-between w-100">
+                                        <div className="d-flex justify-content-between align-items-center w-100">
                                             <h4 className="mb-1 text-start">Finance Apps</h4>
-                                            <i className="fas fa-wallet fa-2x text-yellow"></i>
+                                            <i className="fas fa-wallet  text-yellow"></i>
                                         </div>
                                         <p className="text-dark mt-2 mb-0">Develop finance applications to manage your finances and investments efficiently.</p>
                                     </div>
                                 </div>
                                 <div className="col-6 col-md-4 mb-4">
                                     <div className="feature-box p-3 rounded">
-                                        <div className="d-flex justify-content-between w-100">
+                                        <div className="d-flex justify-content-between align-items-center w-100">
                                             <h4 className="mb-1 text-start">Travel Apps</h4>
-                                            <i className="fas fa-plane-departure fa-2x text-yellow"></i>
+                                            <i className="fas fa-plane-departure  text-yellow"></i>
                                         </div>
                                         <p className="text-dark mt-2 mb-0">Create travel applications to enhance your travel experience and manage bookings.</p>
                                     </div>
@@ -88,9 +88,9 @@ const Mobile = () => {
                         <div className="row col-md-8">
                             <div className="col-lg-6 col-md-6 mb-4">
                                 <div className="feature-box d-flex flex-column justify-content-between align-items-start p-3 rounded">
-                                    <div className="d-flex justify-content-between w-100">
+                                    <div className="d-flex justify-content-between align-items-center w-100">
                                         <h5 className="mb-1 text-start text-black">Latest Technologies</h5>
-                                        <i className="fas fa-code fa-2x text-yellow"></i>
+                                        <i className="fas fa-code text-yellow"></i>
                                     </div>
                                     <p className="text-dark mt-2 mb-0">We build using technologies like Kotlin and Swift for performance and scalability.</p>
                                 </div>
@@ -98,9 +98,9 @@ const Mobile = () => {
 
                             <div className="col-lg-6 col-md-6 mb-4">
                                 <div className="feature-box d-flex flex-column justify-content-between align-items-start p-3 rounded ">
-                                    <div className="d-flex justify-content-between w-100">
+                                    <div className="d-flex justify-content-between align-items-center w-100">
                                         <h5 className="mb-1 text-start text-black">Secure Data Management</h5>
-                                        <i className="fas fa-lock fa-2x text-yellow"></i>
+                                        <i className="fas fa-lock text-yellow"></i>
                                     </div>
                                     <p className="text-dark mt-2 mb-0">We ensure seamless and secure data management with robust security measures.</p>
                                 </div>
@@ -108,9 +108,9 @@ const Mobile = () => {
 
                             <div className="col-lg-6 col-md-6 mb-4">
                                 <div className="feature-box d-flex flex-column justify-content-between align-items-start p-3 rounded">
-                                    <div className="d-flex justify-content-between w-100">
+                                    <div className="d-flex justify-content-between align-items-center w-100">
                                         <h5 className="mb-1 text-start text-black">Push Notifications</h5>
-                                        <i className="fas fa-bell fa-2x text-yellow"></i>
+                                        <i className="fas fa-bell text-yellow"></i>
                                     </div>
                                     <p className="text-dark mt-2 mb-0">To Keep users engaged with timely and relevant push notifications.</p>
                                 </div>
@@ -118,9 +118,9 @@ const Mobile = () => {
 
                             <div className="col-lg-6 col-md-6 mb-4">
                                 <div className="feature-box d-flex flex-column justify-content-between align-items-start p-3 rounded ">
-                                    <div className="d-flex justify-content-between w-100">
+                                    <div className="d-flex justify-content-between align-items-center w-100">
                                         <h5 className="mb-1 text-start text-black">Modern UI/UX Design</h5>
-                                        <i className="fas fa-mobile-alt fa-2x text-yellow"></i>
+                                        <i className="fas fa-mobile-alt text-yellow"></i>
                                     </div>
                                     <p className="text-dark mt-2 mb-0 fs-5">Enhance user experience with visually appealing and intuitive interfaces.</p>
                                 </div>

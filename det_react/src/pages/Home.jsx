@@ -312,31 +312,31 @@ const Home = () => {
                         <div className="col-md-6">
                             <div className="about-us-content">
                                 <div className="stats d-flex flex-wrap mt-3 mt-md-0 justify-content-center">
-                                    <div className="stat-item text-center p-2 col-6 col-md-4" data-aos="fade-up" data-aos-delay="100">
+                                    <div className="stat-item text-center p-2 col-6 col-md-4">
                                         <strong className="fs-3 text-black">10+</strong>
                                         <p className="fs-5 text-wrap">Years of Experience</p>
                                     </div>
-                                    <div className="stat-item text-center p-2 col-6 col-md-4" data-aos="fade-up" data-aos-delay="200">
+                                    <div className="stat-item text-center p-2 col-6 col-md-4">
                                         <strong className="fs-3 text-black">20+</strong>
                                         <p className="fs-5 text-wrap">Ecommerce Developed</p>
                                     </div>
-                                    <div className="stat-item text-center p-2 col-6 col-md-4" data-aos="fade-up" data-aos-delay="300">
+                                    <div className="stat-item text-center p-2 col-6 col-md-4">
                                         <strong className="fs-3 text-black">35+</strong>
                                         <p className="fs-5 text-wrap">Websites Developed</p>
                                     </div>
-                                    <div className="stat-item text-center p-2 col-6 col-md-4" data-aos="fade-up" data-aos-delay="400">
+                                    <div className="stat-item text-center p-2 col-6 col-md-4">
                                         <strong className="fs-3 text-black">20+</strong>
                                         <p className="fs-5 text-wrap">Mobile Apps Developed</p>
                                     </div>
-                                    <div className="stat-item text-center p-2 col-6 col-md-4" data-aos="fade-up" data-aos-delay="500">
+                                    <div className="stat-item text-center p-2 col-6 col-md-4">
                                         <strong className="fs-3 text-black">10+</strong>
                                         <p className="fs-5 text-wrap">ERP Software Developed</p>
                                     </div>
-                                    <div className="stat-item text-center p-2 col-6 col-md-4" data-aos="fade-up" data-aos-delay="800">
+                                    <div className="stat-item text-center p-2 col-6 col-md-4">
                                         <strong className="fs-3 text-black">50+</strong>
                                         <p className="fs-5">Social Media Campaigns</p>
                                     </div>
-                                    <div className="stat-item text-center p-2 col-6 col-md-4" data-aos="fade-up" data-aos-delay="900">
+                                    <div className="stat-item text-center p-2 col-6 col-md-4">
                                         <strong className="fs-3 text-black">4.7/5</strong>
                                         <p className="fs-5 text-wrap text-black">Rated on Google</p>
                                     </div>
@@ -350,6 +350,7 @@ const Home = () => {
             <section className="works">
                 <div className="container">
                     <ul>
+                        {/* Left Column - Explore Digital Edge */}
                         <li>
                             <div className="titles">
                                 <h2>Explore Digital Edge</h2>
@@ -360,6 +361,8 @@ const Home = () => {
                                 <div className="custom-btn"><Link to="/service">See all Services<span></span> <i></i></Link></div>
                             </div>
                         </li>
+
+                        {/* Right Column - Aminu */}
                         <li>
                             <div className="project-box">
                                 <figure className="project-image reveal-effect masker wow">
@@ -374,8 +377,10 @@ const Home = () => {
                                 </div>
                             </div>
                         </li>
-                        <li>
-                            <div className="project-box">
+
+                        {/* Left Column - Killer Store Locator */}
+                        <li className="block relative">
+                            <div className="project-box left-auto translate-x-10">
                                 <figure className="project-image reveal-effect masker wow">
                                     <img src="/assets/images/Killer.jpg"
                                         alt="Killer Store Locator Dynamic Website"
@@ -392,6 +397,8 @@ const Home = () => {
                                 </div>
                             </div>
                         </li>
+
+                        {/* Right Column - Passion Indulge */}
                         <li>
                             <div className="project-box">
                                 <figure className="project-image reveal-effect masker wow">

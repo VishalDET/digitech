@@ -43,8 +43,28 @@ const Layout = ({ children }) => {
       <div className={`transition-overlay ${isMenuOpen ? 'active' : ''}`}></div>
 
       {/* Navigation Menu */}
-      <div className={`navigation-menu ${isMenuOpen ? 'active' : ''}`}>
+      <div className={`navigation-menu ${isMenuOpen ? 'active' : ''}`} style={{ zIndex: 9999 }}>
         <div className="inner">
+          {/* Close Button */}
+          <div
+            className="close-menu"
+            onClick={closeMenu}
+            style={{
+              position: 'absolute',
+              top: '30px',
+              right: '30px',
+              cursor: 'pointer',
+              zIndex: 1000,
+              width: '40px',
+              height: '40px'
+            }}
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+              <line x1="10" y1="10" x2="30" y2="30" stroke="white" strokeWidth="3" />
+              <line x1="30" y1="10" x2="10" y2="30" stroke="white" strokeWidth="3" />
+            </svg>
+          </div>
+
           <div className="side-menu">
             <ul>
               <li><Link to="/" onClick={closeMenu}>Home</Link></li>
