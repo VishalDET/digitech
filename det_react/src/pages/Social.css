@@ -1,53 +1,39 @@
-/* Regular font */
-@font-face {
-    font-family: 'Mont';
-    src: url('/assets/fonts/Mont-Regular.woff2') format('woff2'), url('/assets/fonts/Mont-Regular.woff') format('woff'), url('/assets/fonts/Mont-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+/* Social Page Custom Styles */
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap');
+
+.social-page-wrapper {
+    font-family: 'Outfit', sans-serif;
+    overflow-x: hidden;
 }
 
-/* Bold font */
-@font-face {
-    font-family: 'Mont';
-    src: url('/assets/fonts/Mont-Bold.woff2') format('woff2'), url('/assets/fonts/Mont-Bold.woff') format('woff'), url('/assets/fonts/Mont-Bold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
+/* Variables */
+:root {
+    --social-gradient: linear-gradient(135deg, #802288 0%, #edb121 100%);
+    --social-gradient-reverse: linear-gradient(135deg, #edb121 0%, #802288 100%);
+    --primary-purple: #802288;
+    --primary-gold: #edb121;
 }
 
-/* Heavy font */
-@font-face {
-    font-family: 'Mont';
-    src: url('/assets/fonts/Mont-Heavy.woff2') format('woff2'), url('/assets/fonts/Mont-Heavy.woff') format('woff'), url('/assets/fonts/Mont-Heavy.ttf') format('truetype');
-    font-weight: 900;
-    /* Heavy weight or extra bold */
-    font-style: normal;
+/* Hero Section */
+.hero-section {
+    background: var(--social-gradient);
+    min-height: 85vh;
+    position: relative;
+    padding-top: 80px;
+    /* Account for navbar */
 }
 
-@media(max-width:540px) {
-    body.social-page {
-        padding: 0;
-        margin: 0;
-        overflow-x: hidden;
-    }
+.hero-section .display-3 {
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-body.social-page {
-    background-color: #802288;
-    min-height: 100vh;
-    font-family: Mont !important;
-    font-weight: normal;
+.hero-section .text-warning {
+    color: var(--primary-gold) !important;
 }
 
-.social-page h2 {
-    font-size: 2.5vw;
-}
-
-.social-page a {
-    text-decoration: none;
-    color: black;
-    font-weight: lighter;
-}
-
+/* Animations */
 @keyframes float {
     0% {
         transform: translateY(0px);
@@ -62,513 +48,156 @@ body.social-page {
     }
 }
 
-.social-page .float-animation {
-    animation: float 3s ease-in-out infinite;
-    filter: drop-shadow(0 0.2rem 0.25rem rgba(0, 0, 0, 0.4));
+.float-animation {
+    animation: float 4s ease-in-out infinite;
+    filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.2));
 }
 
-.social-page .hero {
-    background: linear-gradient(337deg, rgb(237 177 33) 9%, rgb(128 34 136) 53%);
-    color: white;
-    padding: 0 0;
+/* Floating Shapes */
+.shape-circle {
+    position: absolute;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(5px);
+    z-index: 1;
 }
 
-.social-page .feature-icon {
-    font-size: 3rem;
-    margin-bottom: 1rem;
-}
-
-.social-page .cta {
-    background-color: #f8f9fa;
-    padding: 100px 0;
-}
-
-.social-page .display-4 {
-    font-size: 3vw;
-    font-weight: 700;
-    text-shadow: 2px 2px 2px #000;
-}
-
-.social-page .display-4 strong {
-    color: #edb121;
-    font-size: 4.5vw;
-    font-style: italic;
-}
-
-.social-page .project-slider {
-    display: flex;
-    overflow: hidden;
-    flex-wrap: nowrap;
-    transition: transform 0.5s ease;
-    padding-bottom: 1rem;
-}
-
-.social-page .project-card {
-    display: flex;
-    flex: 0 0 400px;
-    margin: 0 10px;
-    padding: 0;
-    border-radius: 1rem;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) !important;
-}
-
-.social-page .project-card:hover {
-    transform: translateY(-10px);
-}
-
-.social-page .project-card .card-img-top {
-    height: 200px;
-    object-fit: cover;
-    transition: transform 0.3s ease-in-out;
-}
-
-.social-page .project-card .card-footer {
-    text-wrap: wrap;
-    padding-bottom: 0.5rem !important;
-}
-
-.social-page .project-card .card-title {
-    font-weight: normal;
-    margin-bottom: 0.5rem;
-}
-
-.social-page .project-card .card-text {
-    font-size: 0.9rem;
-    color: #6c757d;
-}
-
-.social-page .partners-container {
-    overflow: hidden;
-    padding: 20px 0;
-}
-
-.social-page .partners-row {
-    display: flex;
-    animation-duration: 20s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-    gap: 5rem;
-}
-
-.social-page .partners-row img {
-    height: 80px;
-    filter: grayscale(0.8);
-}
-
-.social-page .partners-row img:hover {
-    filter: grayscale(0);
-}
-
-.social-page .row-1 {
-    animation-name: moveLeft;
-}
-
-.social-page .row-2 {
-    animation-name: moveRight;
-}
-
-@keyframes moveLeft {
-    0% {
-        transform: translateX(0);
-    }
-
-    100% {
-        transform: translateX(-100%);
-    }
-}
-
-@keyframes moveRight {
-    0% {
-        transform: translateX(-100%);
-    }
-
-    100% {
-        transform: translateX(50%);
-    }
-}
-
-.social-page .btn {
-    background: white;
-    color: rgba(138, 41, 138, 1);
-    border: 2px solid #cc9c28;
-    transition: 0.5s ease-in-out;
-    padding: 10px 25px;
-    font-weight: 600;
-    font-size: 1.2rem;
-}
-
-.social-page .btn:hover {
-    background: rgba(138, 41, 138, 1) !important;
-    color: white;
-    border-color: #cc9c28;
-    border: 2px solid #fff;
-}
-
-.social-page .platform-card {
-    border: none;
-    border-radius: 15px;
-    overflow: hidden;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    border: 1px solid #d0d0d0;
-}
-
-.social-page .platform-card .btn {
-    color: #000;
-    font-size: 1rem;
-    padding: 5px 15px;
-}
-
-.social-page .platform-card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-}
-
-.social-page .platform-icon {
-    font-size: 3rem;
-    margin-bottom: 1rem;
-}
-
-.social-page .platform-bg {
+.shape-1 {
+    width: 150px;
     height: 150px;
-    background-size: cover;
-    background-position: center;
+    top: 10%;
+    left: 5%;
+    animation: float 6s ease-in-out infinite reverse;
 }
 
-.social-page .facebook-bg {
-    background-image: url('/api/placeholder/400/150');
+.shape-2 {
+    width: 100px;
+    height: 100px;
+    bottom: 15%;
+    right: 10%;
+    animation: float 5s ease-in-out infinite;
 }
 
-.social-page .instagram-bg {
-    border: 1px solid linear-gradient(115deg, rgb(249, 206, 52), rgb(238, 42, 123), rgb(98, 40, 215));
-}
-
-.social-page .twitter-bg {
-    background-image: url('/api/placeholder/400/150');
-}
-
-.social-page .linkedin-bg {
-    background-image: url('/api/placeholder/400/150');
-}
-
-.social-page .email-bg {
-    background-image: url('/api/placeholder/400/150');
-}
-
-@media (max-width:540px) {
-    body.social-page {
-        overflow-x: hidden !important;
-    }
-
-    .social-page h2 {
-        font-size: 8vw;
-    }
-
-    .social-page .display-4 {
-        font-size: 10vw;
-    }
-
-    .social-page .display-4 strong {
-        font-size: 20vw;
-    }
-
-    .social-page .project-card {
-        flex: 0 0 320px;
-    }
-}
-
-.social-page .social-contact {
-    font-size: 1.5rem;
-    font-weight: 600;
-    font-style: italic;
-}
-
-.social-page .bg-facebook {
-    background-color: #d5eaff;
-}
-
-.social-page .bg-instagram {
-    background-color: #fce7f3;
-}
-
-.social-page .bg-x {
-    background-color: #e2e2e2;
-}
-
-.social-page .bg-linkedin {
-    background-color: #e8f4f9;
-}
-
-.social-page .bg-email {
-    background-color: #e6ffe6;
-}
-
-.social-page .bg-google-my-business {
-    background-color: #afd1f2;
-}
-
-.social-page .bg-facebook .btn:hover {
-    background-color: #d5eaff !important;
-}
-
-.social-page .bg-instagram .btn:hover {
-    background-color: #fce7f3 !important;
-}
-
-.social-page .bg-x .btn:hover {
-    background-color: #e2e2e2 !important;
-}
-
-.social-page .bg-linkedin .btn:hover {
-    background-color: #e8f4f9 !important;
-}
-
-.social-page .bg-email .btn:hover {
-    background-color: #e6ffe6 !important;
-}
-
-.social-page .bg-google-my-business .btn:hover {
-    background-color: #afd1f2 !important;
-}
-
-.social-page .review-card {
-    border: 1px solid #d0d0d0;
-    box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.5);
-    border-radius: 1.2rem;
-    border-width: 2px 10px 10px 2px;
-    border-color: rgba(0, 0, 0, 0.65);
-    transition: 0.3s ease-in-out;
-}
-
-.social-page .review-card:hover {
-    border-color: rgba(0, 0, 0, 0.89);
-}
-
-.social-page .review-card .card-body {
-    padding: 8px 10px !important;
-}
-
-.social-page .review-card .card-body .card-title {
-    font-size: 1rem;
-}
-
-.social-page .review-avatar {
-    background-color: #cc9c28;
-    width: 70px;
-    height: 70px;
-    border-radius: 100%;
-}
-
-.social-page .material-symbols-outlined {
-    font-variation-settings: 'FILL' #000, 'wght' 400, 'GRAD' 0, 'opsz' 24
-}
-
-.social-page .ppc-card {
-    border: none;
-    border-radius: 15px;
-    overflow: hidden;
+/* Cards */
+.hover-lift {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    height: 100%;
-    color: #000;
 }
 
-.social-page .ppc-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+.hover-lift:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175) !important;
 }
 
-.social-page .ppc-icon {
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-    background: linear-gradient(337deg, rgba(138, 41, 138, 0.7) 60%, rgba(179, 126, 0, 0.5) 100%);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
+.shadow-hover {
+    transition: box-shadow 0.3s ease;
 }
 
-.social-page .ppc-bg {
-    background: linear-gradient(337deg, rgb(237 177 33) 25%, rgb(128 34 136) 53%);
-    color: white;
-    padding: 3rem 0;
+.shadow-hover:hover {
+    box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, .1) !important;
 }
 
-.social-page .fab {
-    transition: color 0.3s ease;
-}
-
-.social-page .fab.fa-facebook:hover {
-    color: #1877f2;
-}
-
-.social-page .fab.fa-instagram:hover {
-    color: #c13584;
-}
-
-.social-page .fab.fa-linkedin:hover {
-    color: #0077b5;
-}
-
-.social-page .fa-brands.fa-x-twitter:hover {
-    color: #000000;
-}
-
-.social-page .fab.fa-pinterest:hover {
-    color: #e60023;
-}
-
-.social-page .btn-contact {
-    transition: all 0.3s ease;
-    border-radius: 5rem;
-    font-weight: 600;
-    border: 0px;
-    transition: 0.5s ease-in-out;
-    box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
-}
-
-.social-page .btn-contact:hover {
-    box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
-    border: 0;
-}
-
-.social-page .btn-contact i {
-    margin-left: 10px;
+.hover-scale {
     transition: transform 0.3s ease;
 }
 
-.social-page .btn-contact:hover i {
-    transform: translateX(5px);
+.hover-scale:hover {
+    transform: scale(1.05);
 }
 
-.social-page .review-stars {
-    color: #cd7a00;
-    filter: drop-shadow(2px 4px 6px #d0d0d0);
+.hover-scale-sm {
+    transition: transform 0.3s ease;
 }
 
-.social-page .text-yellow {
-    color: #edb121;
+.hover-scale-sm:hover {
+    transform: scale(1.02);
 }
 
-.social-page .text-black {
-    color: black !important;
+/* Platform Card Colors (Restored) */
+.bg-facebook {
+    background-color: #d5eaff;
 }
 
-.social-page .fw-bold {
-    font-weight: 550 !important;
+.bg-instagram {
+    background-color: #fce7f3;
 }
 
-.social-page .text-dark {
+.bg-x {
+    background-color: #e2e2e2;
+}
+
+.bg-linkedin {
+    background-color: #e8f4f9;
+}
+
+.bg-email {
+    background-color: #e6ffe6;
+}
+
+.bg-google {
+    background-color: #afd1f2;
+}
+
+/* Ensure text is visible on pastel backgrounds */
+.platform-card .card-title,
+.platform-card .card-text,
+.platform-card i {
     color: #181818;
+    /* Dark text */
 }
 
-.social-page .carousel-indicators {
-    margin-top: 20px;
+.platform-card .text-muted {
+    color: #444 !important;
+    /* Darker muted text */
+    opacity: 1 !important;
 }
 
-.social-page .carousel-indicators button {
-    background-color: #888;
-    border: none;
-    width: 20px;
-    height: 8px;
-    border-radius: 4px;
-    margin: 5px;
-    transition: background-color 0.3s ease, transform 0.3s ease;
+/* PPC Section */
+.ppc-section {
+    background: var(--social-gradient-reverse);
 }
 
-.social-page .carousel-indicators .active,
-.social-page .carousel-indicators [data-bs-target] {
-    background-color: #f1c40f;
-    width: 20px !important;
-    height: 8px !important;
+.backdrop-blur {
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
 }
 
-.social-page .carousel-indicators button:hover {
-    background-color: #f39c12;
+/* Utilities */
+.py-6 {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
 }
 
-.social-page .highlight-text {
-    background: linear-gradient(to right, #000, #d63384);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-
-.social-page .btn-custom {
-    background: #000;
-    color: #fff;
-    border-radius: 25px;
-    padding: 10px 20px;
-    font-weight: bold;
-}
-
-.social-page .btn-custom:hover {
-    background: #d63384;
-    color: #fff;
-}
-
-.social-page .watch-card img {
-    transition: transform 0.3s ease-in-out;
-}
-
-.social-page .watch-card img:hover {
-    transform: scale(1.1);
-}
-
-.social-page .contact-banner {
-    background: linear-gradient(135deg, #3b1d85, #642cb9);
-    color: white;
-    text-align: center;
-    padding: 50px 30px;
-    border-radius: 20px;
-    position: relative;
-    overflow: hidden;
-}
-
-.social-page .contact-banner h2 {
-    font-weight: bold;
-}
-
-.social-page .contact-banner p {
+.opacity-90 {
     opacity: 0.9;
-    margin-bottom: 20px;
 }
 
-.social-page .contact-button {
-    background: white;
-    color: #3b1d85;
-    border-radius: 30px;
-    padding: 10px 20px;
-    font-weight: bold;
-    border: none;
-    transition: 0.3s;
+.opacity-75 {
+    opacity: 0.75;
 }
 
-.social-page .contact-button:hover {
-    background: #f5f5f5;
+.rotate-12 {
+    transform: rotate(12deg);
 }
 
-/* Floating Elements */
-.social-page .circle {
-    position: absolute;
-    background: rgba(255, 255, 255, 0.2);
-    border-radius: 50%;
-    filter: blur(8px);
-}
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .hero-section {
+        min-height: auto;
+        padding-bottom: 3rem;
+        text-align: center;
+    }
 
-.social-page .circle.one {
-    width: 80px;
-    height: 80px;
-    top: 20px;
-    left: 30px;
-}
+    .hero-section .display-3 {
+        font-size: 2.5rem;
+    }
 
-.social-page .circle.two {
-    width: 50px;
-    height: 50px;
-    bottom: 30px;
-    right: 40px;
-}
+    .hero-image-container {
+        margin-top: 2rem;
+    }
 
-.social-page .circle.three {
-    width: 30px;
-    height: 30px;
-    top: 50%;
-    left: 50%;
+    .shape-1,
+    .shape-2 {
+        display: none;
+        /* Hide shapes on mobile to prevent overflow/clutter */
+    }
 }

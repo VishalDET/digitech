@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 
+
 const Home = () => {
     useEffect(() => {
         // Owl Carousel Initialization
@@ -417,89 +418,88 @@ const Home = () => {
                 </div>
             </section>
 
-            <section className="process pb-5 bg-light">
+            <section className="process-section">
                 <div className="container">
-                    <div className="titles">
+                    <div className="titles text-start mb-5" style={{ paddingRight: 0 }}>
                         <h6>HOW WE PROCESS</h6>
                         <p className="text-yellow text-bold">Our Development Process</p>
                     </div>
                     <div className="row g-4">
-                        <div className="col-md-4 mb-3">
-                            <div className="card h-100 shadow-sm transition-hover border-1 border-light">
-                                <div className="card-body px-4 pt-3 pb-3">
-                                    <div className="d-flex align-items-center mb-2 w-100 justify-content-between">
-                                        <h6 className="card-title mb-0 fw-medium" style={{ marginRight: '20px !important' }}>Ideation & Planning</h6>
-                                        <div className="icon-box bg-secondary-subtle rounded-3 p-3 me-3">
-                                            <i className="fas fa-lightbulb text-yellow fs-5"></i>
-                                        </div>
+                        <div className="col-lg-4 col-md-6 mb-3">
+                            <div className="process-card">
+                                <span className="process-number">01</span>
+                                <div className="process-header">
+                                    <div className="process-icon-wrapper">
+                                        <i className="fas fa-lightbulb process-icon"></i>
                                     </div>
-                                    <p className="card-text text-muted">We brainstorm ideas and create a detailed project plan based on your requirements.</p>
                                 </div>
+                                <h3 className="process-title">Ideation & Planning</h3>
+                                <p className="process-description">We brainstorm ideas and create a detailed project plan based on your requirements.</p>
                             </div>
                         </div>
-                        <div className="col-md-4 mb-3">
-                            <div className="card h-100 shadow-sm border-0 rounded-4 transition-hover">
-                                <div className="card-body px-4 pt-3 pb-3">
-                                    <div className="d-flex align-items-center mb-2 w-100 justify-content-between">
-                                        <h6 className="card-title mb-0 fw-medium">Design & Prototyping</h6>
-                                        <div className="icon-box bg-secondary-subtle rounded-3 p-3 me-3">
-                                            <i className="fas fa-pencil-ruler text-yellow fs-3"></i>
-                                        </div>
+
+                        <div className="col-lg-4 col-md-6 mb-3">
+                            <div className="process-card">
+                                <span className="process-number">02</span>
+                                <div className="process-header">
+                                    <div className="process-icon-wrapper">
+                                        <i className="fas fa-pencil-ruler process-icon"></i>
                                     </div>
-                                    <p className="card-text text-muted">Our designers create intuitive UI/UX designs and interactive prototypes for your approval.</p>
                                 </div>
+                                <h3 className="process-title">Design & Prototyping</h3>
+                                <p className="process-description">Our designers create intuitive UI/UX designs and interactive prototypes for your approval.</p>
                             </div>
                         </div>
-                        <div className="col-md-4 mb-3">
-                            <div className="card h-100 shadow-sm border-0 rounded-4 transition-hover">
-                                <div className="card-body px-4 pt-3 pb-3">
-                                    <div className="d-flex align-items-center mb-2 w-100 justify-content-between">
-                                        <h6 className="card-title mb-0 fw-medium">Development</h6>
-                                        <div className="icon-box bg-secondary-subtle rounded-3 p-3 me-3">
-                                            <i className="fas fa-code text-yellow fs-3"></i>
-                                        </div>
+
+                        <div className="col-lg-4 col-md-6 mb-3">
+                            <div className="process-card">
+                                <span className="process-number">03</span>
+                                <div className="process-header">
+                                    <div className="process-icon-wrapper">
+                                        <i className="fas fa-code process-icon"></i>
                                     </div>
-                                    <p className="card-text text-muted">Our experienced developers bring the designs to life with clean, efficient code.</p>
                                 </div>
+                                <h3 className="process-title">Development</h3>
+                                <p className="process-description">Our experienced developers bring the designs to life with clean, efficient code.</p>
                             </div>
                         </div>
-                        <div className="col-md-4 mb-3">
-                            <div className="card h-100 shadow-sm border-0 rounded-4 transition-hover">
-                                <div className="card-body px-4 pt-3 pb-3">
-                                    <div className="d-flex align-items-center mb-2 w-100 justify-content-between">
-                                        <h6 className="card-title mb-0 fw-medium">Testing & QA</h6>
-                                        <div className="icon-box bg-secondary-subtle rounded-3 p-3 me-3">
-                                            <i className="fas fa-vial text-yellow fs-3"></i>
-                                        </div>
+
+                        <div className="col-lg-4 col-md-6 mb-3">
+                            <div className="process-card">
+                                <span className="process-number">04</span>
+                                <div className="process-header">
+                                    <div className="process-icon-wrapper">
+                                        <i className="fas fa-vial process-icon"></i>
                                     </div>
-                                    <p className="card-text text-muted">Rigorous testing ensures your app is bug-free and performs optimally across devices.</p>
                                 </div>
+                                <h3 className="process-title">Testing & QA</h3>
+                                <p className="process-description">Rigorous testing ensures your app is bug-free and performs optimally across devices.</p>
                             </div>
                         </div>
-                        <div className="col-md-4 mb-3">
-                            <div className="card h-100 shadow-sm border-0 rounded-4 transition-hover">
-                                <div className="card-body px-4 pt-3 pb-3">
-                                    <div className="d-flex align-items-center mb-2 w-100 justify-content-between">
-                                        <h6 className="card-title mb-0 fw-medium">Deployment</h6>
-                                        <div className="icon-box bg-secondary-subtle rounded-3 p-3 me-3">
-                                            <i className="fas fa-rocket text-yellow fs-3"></i>
-                                        </div>
+
+                        <div className="col-lg-4 col-md-6 mb-3">
+                            <div className="process-card">
+                                <span className="process-number">05</span>
+                                <div className="process-header">
+                                    <div className="process-icon-wrapper">
+                                        <i className="fas fa-rocket process-icon"></i>
                                     </div>
-                                    <p className="card-text text-muted">We handle the app store submission process and ensure a smooth launch.</p>
                                 </div>
+                                <h3 className="process-title">Deployment</h3>
+                                <p className="process-description">We handle the app store submission process and ensure a smooth launch.</p>
                             </div>
                         </div>
-                        <div className="col-md-4 mb-3">
-                            <div className="card h-100 shadow-sm border-0 rounded transition-hover">
-                                <div className="card-body px-4 pt-3 pb-3">
-                                    <div className="d-flex align-items-center mb-2 w-100 justify-content-between">
-                                        <h6 className="card-title mb-0 fw-medium">Maintenance & Support</h6>
-                                        <div className="icon-box bg-secondary-subtle rounded-3 p-3 me-3">
-                                            <i className="fas fa-cogs text-yellow fs-3"></i>
-                                        </div>
+
+                        <div className="col-lg-4 col-md-6 mb-3">
+                            <div className="process-card">
+                                <span className="process-number">06</span>
+                                <div className="process-header">
+                                    <div className="process-icon-wrapper">
+                                        <i className="fas fa-cogs process-icon"></i>
                                     </div>
-                                    <p className="card-text text-muted">We provide ongoing support and updates to keep your app running smoothly.</p>
                                 </div>
+                                <h3 className="process-title">Maintenance & Support</h3>
+                                <p className="process-description">We provide ongoing support and updates to keep your app running smoothly.</p>
                             </div>
                         </div>
                     </div>

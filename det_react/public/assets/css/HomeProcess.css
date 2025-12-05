@@ -1,0 +1,115 @@
+.process-section {
+    padding: 80px 0;
+    background-color: #f9f9f9;
+    position: relative;
+    overflow: hidden;
+}
+
+.process-card {
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 40px 30px;
+    position: relative;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    height: 100%;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.process-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+    border-color: #f4c32d;
+}
+
+.process-card::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: #f4c32d;
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.4s ease;
+}
+
+.process-card:hover::before {
+    transform: scaleX(1);
+}
+
+.process-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 25px;
+}
+
+.process-icon-wrapper {
+    width: 60px;
+    height: 60px;
+    background: rgba(244, 195, 45, 0.1);
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.process-card:hover .process-icon-wrapper {
+    background: #f4c32d;
+}
+
+.process-icon {
+    font-size: 24px;
+    color: #f4c32d;
+    transition: all 0.3s ease;
+}
+
+.process-card:hover .process-icon {
+    color: #282828;
+}
+
+.process-number {
+    font-family: 'Mont', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.05);
+    line-height: 1;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    transition: all 0.3s ease;
+}
+
+.process-card:hover .process-number {
+    color: rgba(244, 195, 45, 0.2);
+    transform: scale(1.1);
+}
+
+.process-title {
+    font-family: 'Mont', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #282828;
+    margin-bottom: 15px;
+    position: relative;
+}
+
+.process-description {
+    font-family: 'Mont', sans-serif;
+    font-size: 15px;
+    color: #666;
+    line-height: 1.6;
+    margin: 0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .process-card {
+        padding: 30px 20px;
+        margin-bottom: 20px;
+    }
+}
