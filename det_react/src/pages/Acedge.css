@@ -1,0 +1,380 @@
+.acedge-page {
+    animation: fadeInUp 0.5s ease-out;
+}
+
+.toggle-container {
+    background: linear-gradient(to right, #cc9c28, #844389);
+    border-radius: 25px;
+    display: inline-block;
+    padding: 5px;
+}
+
+.toggle-btn {
+    border-radius: 20px;
+    padding: 5px 15px;
+    color: white !important;
+    transition: 0.5s ease-in-out;
+    border: none;
+    background: transparent;
+}
+
+.toggle-btn.active {
+    background-color: #ffffff;
+    color: #1a3b3b !important;
+}
+
+.card {
+    background-color: #353535;
+    border: none;
+    padding: 10px auto;
+    border-radius: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    color: #ffffff;
+}
+
+.card-title {
+    margin-bottom: 0 !important;
+}
+
+.card-header {
+    background-color: #000;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.highlight {
+    background-color: #614666;
+}
+
+.text-muted {
+    color: #f9f9f9 !important;
+}
+
+.btn-custom {
+    background-color: #802388;
+    border: none;
+    color: white;
+}
+
+.feature-icon {
+    color: #4caf50;
+}
+
+.view-features {
+    color: #e57373;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.page-title h2,
+.page-title h1,
+.page-title b,
+.page-title sup {
+    background: linear-gradient(to right, #cc9c28, #844389);
+    color: transparent !important;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+.page-title sup {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.acedge-page h1 {
+    font-size: 3em !important;
+    margin-bottom: 10px;
+    font-weight: 600;
+    background: linear-gradient(to right, #cc9c28, #844389);
+    color: transparent !important;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+.subtitle {
+    color: #353535;
+    margin-bottom: 40px;
+}
+
+.benefits {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    gap: 20px;
+}
+
+.benefit {
+    background: linear-gradient(to left, rgb(138 93 26), rgb(128 0 136 / 50%));
+    flex-basis: 30%;
+    padding: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 10px;
+}
+
+.benefit:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.benefit.highlighted {
+    background: linear-gradient(to left, rgb(138 93 26), rgb(128 0 136 / 50%));
+    border-radius: 10px;
+    color: #f7f7f7;
+}
+
+.icon {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.benefit-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #353535;
+    letter-spacing: 0.6px;
+    font-size: 1.3rem;
+}
+
+.benefit-description {
+    font-size: 0.9em;
+    color: #f7f7f7;
+    margin-bottom: 20px;
+}
+
+.card-header h2 {
+    font-size: 1.5rem;
+    background: linear-gradient(to right, #cc9c28, #844389);
+    color: transparent !important;
+    -webkit-background-clip: text;
+    background-clip: text;
+    font-weight: 600;
+}
+
+.view-more {
+    color: #FF6B6B;
+    text-decoration: none;
+}
+
+.card-intro {
+    background-color: #000000;
+    border-radius: 10px;
+    max-width: 95%;
+}
+
+.font-bigger {
+    font-size: 2rem;
+}
+
+.font-bigger b {
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.plans-contact {
+    padding: 0px;
+    border-radius: 8px;
+    margin: 0px;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    text-decoration: none;
+}
+
+.plans-contact:hover {
+    text-decoration: none;
+    background: linear-gradient(to right, #cc9c28, #844389);
+    color: transparent !important;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+.gst {
+    font-size: 0.8rem;
+}
+
+small {
+    font-size: 0.8rem;
+}
+
+.bg-green {
+    background-color: green;
+    color: #fff;
+    font-weight: 100;
+}
+
+.phone-mockup {
+    width: 100%;
+    padding: 0px;
+    background: none;
+}
+
+.phone-screen {
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    color: #333;
+}
+
+.phone-screen img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.content {
+    width: 100%;
+    padding: 40px;
+}
+
+.content ul {
+    list-style: none;
+    padding: 0;
+}
+
+.content ul li {
+    font-size: 1rem;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.security {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.card-demo .card-body {
+    padding: 8em;
+    background-color: #000000;
+}
+
+.card-demo {
+    background: linear-gradient(to top, #cc9c28, #844389);
+}
+
+.card-demo .card-footer {
+    border-top: 1px solid #2b2b2b;
+    background-color: #000;
+    color: white;
+}
+
+.check-mark {
+    background: linear-gradient(to bottom, #cc9c28, #844389);
+    color: transparent !important;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(50px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInRight {
+    from {
+        opacity: 0;
+        transform: translateX(200px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes fadeInLeft {
+    from {
+        opacity: 0;
+        transform: translateX(-100px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.animate-on-scroll {
+    opacity: 0;
+    transition: opacity 1s, transform 1s;
+}
+
+.animated-right {
+    animation: fadeInRight 1s ease-in-out forwards;
+}
+
+.animated-left {
+    animation: fadeInLeft 1s ease-out forwards;
+}
+
+.animated-up {
+    animation: fadeInUp 1s ease-out forwards;
+}
+
+@media (max-width: 768px) {
+    .acedge-page h1 {
+        font-size: 2em !important;
+    }
+
+    .font-bigger {
+        font-size: 1.5rem;
+    }
+
+    .font-bigger b {
+        font-size: 2rem;
+    }
+
+    .benefits {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .card-demo .card-body {
+        padding: 2em;
+    }
+
+    .content {
+        padding: 20px;
+    }
+
+    .card-intro {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 540px) {
+    .acedge-page h1 {
+        font-size: 1.5em !important;
+    }
+
+    .font-bigger {
+        font-size: 1.2rem;
+    }
+
+    .font-bigger b {
+        font-size: 1.5rem;
+    }
+
+    .card-demo .card-body {
+        padding: 1em;
+    }
+}
+
+/* Slick Slider Custom Styles */
+.slick-slide img {
+    margin: 0 auto;
+}

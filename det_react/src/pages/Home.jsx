@@ -141,206 +141,131 @@ const Home = () => {
                 </div>
             </div>
 
-            <div className="d-flex d-md-none">
-                <div className="col-12 pt-5">
-                    <div className="container">
-                        <div className="titles">
-                            <h6>OUR SERVICES</h6>
-                            <p className="text-yellow">We are Master of.</p>
-                        </div>
-                        <div id="servicesCarousel" className="carousel slide services-carousel carousel-fade" data-bs-ride="carousel" data-bs-interval="3000">
-                            <div className="carousel-indicators d-flex justify-content-center mt-3 mb-0 py-0">
-                                <button type="button" data-bs-target="#servicesCarousel" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
-                                <button type="button" data-bs-target="#servicesCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                                <button type="button" data-bs-target="#servicesCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                                <button type="button" data-bs-target="#servicesCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
-                                <button type="button" data-bs-target="#servicesCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
-                                <button type="button" data-bs-target="#servicesCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
-                            </div>
-                            <div className="carousel-inner ">
-                                <div className="carousel-item active">
-                                    <div className="row">
-                                        <div className="col-12 col-sm-6 col-lg-4 service-item">
-                                            <Link to="/software" className="text-black">
-                                                <img src="/assets/images/Software Development.png" alt="Software Development" className="service-image" />
-                                                <h3 className="service-title fw-bold">Software Development</h3>
-                                            </Link>
-                                            <p className="service-intro">We offer tailored <Link to="/software" className="text-black">software solutions</Link> to meet your unique business needs, ensuring efficiency and business logic. We specialize in agile methodologies, ensuring rapid deployment and scalability.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="carousel-item">
-                                    <div className="row">
-                                        <div className="col-12 col-sm-6 col-lg-4 service-item">
-                                            <Link to="/erp" className="text-black">
-                                                <img src="/assets/images/ERP-01.png" alt="Enterprise Resource Planning" className="service-image" />
-                                                <h3 className="service-title fw-bold">Enterprise Resource Planning</h3>
-                                            </Link>
-                                            <p className="service-intro">Utilize your staff's skills, hardware, and software to increase productivity and simplify daily processes with our ERP solutions.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="carousel-item">
-                                    <div className="row">
-                                        <div className="col-12 col-sm-6 col-lg-4 service-item">
-                                            <Link to="/web" className="text-black">
-                                                <img src="/assets/images/Web Development-01.png" alt="Web Development" className="service-image" />
-                                                <h3 className="service-title fw-bold">Web Development</h3>
-                                            </Link>
-                                            <p className="service-intro">We create responsive and engaging websites that enhance user experience and drive conversions.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="carousel-item">
-                                    <div className="row">
-                                        <div className="col-12 col-sm-6 col-lg-4 service-item">
-                                            <Link to="/creative" className="text-black">
-                                                <img src="/assets/images/Intractive & Creative Design-01-01.png" alt="Interactive and Creative Designs" className="service-image" />
-                                                <h3 className="service-title fw-bold">Interactive and Creative Designs</h3>
-                                            </Link>
-                                            <p className="service-intro">Enhance your business with interactive and creative designs that adapt to and reflect your brand.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="carousel-item">
-                                    <div className="row">
-                                        <div className="col-12 col-sm-6 col-lg-4 service-item">
-                                            <Link to="/social" className="text-black">
-                                                <img src="/assets/images/2352644-01.jpg" alt="Social Media Management" className="service-image" />
-                                                <h3 className="service-title fw-bold">Social Media Management</h3>
-                                            </Link>
-                                            <p className="service-intro">Engage your brand with effective social media strategies provided by Digital Edge.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="carousel-item">
-                                    <div className="row">
-                                        <div className="col-12 col-sm-6 col-lg-4 service-item">
-                                            <Link to="/mobile" className="text-black">
-                                                <img src="/assets/images/Mobile App Development.png" alt="Mobile App Development" className="service-image" />
-                                                <h3 className="service-title fw-bold">Mobile App Development</h3>
-                                            </Link>
-                                            <p className="service-intro">We create innovative mobile applications (Android App Development / iOS App Development) that provide seamless user experiences and drive engagement.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <button className="carousel-control-prev d-none" type="button" data-bs-target="#servicesCarousel" data-bs-slide="prev">
-                                <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span className="visually-hidden">Previous</span>
-                            </button>
-                            <button className="carousel-control-next d-none" type="button" data-bs-target="#servicesCarousel" data-bs-slide="next">
-                                <span className="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span className="visually-hidden">Next</span>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div className="px-3 d-none d-md-block">
-                <div className="col-12 pt-3">
-                    <div className="container">
-                        <div className="titles">
-                            <h6>OUR SERVICES</h6>
-                            <p className="text-yellow">We are Master of.</p>
-                        </div>
-                        <div className="row">
-                            <div className="col-12 col-sm-6 col-lg-4 service-item">
-                                <Link to="/software" className="text-black">
-                                    <img src="/assets/images/Software Development.png" alt="Custom Software Development Solutions for Businesses" className="service-image" />
-                                    <h3 className="service-title fw-bold">Software Development</h3>
-                                </Link>
-                                <p className="service-intro">We offer tailored <Link to="/software" className="text-black">software solutions</Link> to meet your unique business needs, ensuring efficiency and business logic. We specialize in agile methodologies, ensuring rapid deployment and scalability.</p>
-                            </div>
-
-                            <div className="col-12 col-sm-6 col-lg-4 service-item">
-                                <Link to="/erp" className="text-black">
-                                    <img src="/assets/images/ERP-01.png" alt="Enterprise Resource Planning Software Solutions" className="service-image" />
-                                    <h3 className="service-title fw-bold">Enterprise Resource Planning</h3>
-                                </Link>
-                                <p className="service-intro">Utilize your staff's skills, hardware, and software to increase productivity and simplify daily processes with our ERP solutions.</p>
-                            </div>
-
-                            <div className="col-12 col-sm-6 col-lg-4 service-item">
-                                <Link to="/web" className="text-black">
-                                    <img src="/assets/images/Web Development-01.png" alt="Professional Web Development Services for Businesses" className="service-image" />
-                                    <h3 className="service-title fw-bold">Web Development</h3>
-                                </Link>
-                                <p className="service-intro">We create responsive and engaging websites that enhance user experience and drive conversions.</p>
-                            </div>
-
-                            <div className="col-12 col-sm-6 col-lg-4 service-item">
-                                <Link to="/mobile" className="text-black">
-                                    <img src="/assets/images/Mobile App Development.png" alt="Innovative Mobile App Development for iOS and Android" className="service-image" />
-                                    <h3 className="service-title fw-bold">Mobile App Development</h3>
-                                </Link>
-                                <p className="service-intro">We create innovative mobile applications (Android App Development / iOS App Development) that provide seamless user experiences and drive engagement.</p>
-                            </div>
-
-                            <div className="col-12 col-sm-6 col-lg-4 service-item">
-                                <Link to="/creative" className="text-black">
-                                    <img src="/assets/images/Intractive & Creative Design-01-01.png" alt="Interactive and Creative Design Services" className="service-image" />
-                                    <h3 className="service-title fw-bold">Interactive and Creative Designs</h3>
-                                </Link>
-                                <p className="service-intro">Enhance your business with interactive and creative designs that adapt to and reflect your brand.</p>
-                            </div>
-
-                            <div className="col-12 col-sm-6 col-lg-4 service-item">
-                                <Link to="/social" className="text-black">
-                                    <img src="/assets/images/2352644-01.png" alt="Social Media Management Services for Businesses" className="service-image" />
-                                    <h3 className="service-title fw-bold">Social Media Management</h3>
-                                </Link>
-                                <p className="service-intro">Engage your brand with effective social media strategies provided by Digital Edge.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <section className="about-us-section bg-light pb-3">
+            <section className="services-section">
                 <div className="container">
-                    <div className="d-flex justify-content-between align-items-center mb-2">
-                        <div className="titles">
-                            <h6>ABOUT Us</h6>
-                            <p className="text-yellow">What we have achieved</p>
+                    <div className="titles">
+                        <h6>OUR SERVICES</h6>
+                        <p>We are Master of</p>
+                    </div>
+                    <div className="services-grid">
+                        {/* Software Development */}
+                        <div className="service-card">
+                            <div className="service-icon-box">
+                                <i className="fas fa-laptop-code service-icon"></i>
+                            </div>
+                            <h3 className="service-title">Software Development</h3>
+                            <p className="service-description">We offer tailored software solutions to meet your unique business needs, ensuring efficiency and business logic. We specialize in agile methodologies.</p>
+                            <Link to="/software" className="service-link">
+
+                                Read More <i className="fas fa-arrow-right"></i>
+                            </Link>
+                        </div>
+
+                        {/* ERP */}
+                        <div className="service-card">
+                            <div className="service-icon-box">
+                                <i className="fas fa-chart-line service-icon"></i>
+                            </div>
+                            <h3 className="service-title">Enterprise Resource Planning</h3>
+                            <p className="service-description">Utilize your staff's skills, hardware, and software to increase productivity and simplify daily processes with our ERP solutions.</p>
+                            <Link to="/erp" className="service-link">
+                                Read More <i className="fas fa-arrow-right"></i>
+                            </Link>
+                        </div>
+
+                        {/* Web Development */}
+                        <div className="service-card">
+                            <div className="service-icon-box">
+                                <i className="fas fa-globe service-icon"></i>
+                            </div>
+                            <h3 className="service-title">Web Development</h3>
+                            <p className="service-description">We create responsive and engaging websites that enhance user experience and drive conversions.</p>
+                            <Link to="/web" className="service-link">
+                                Read More <i className="fas fa-arrow-right"></i>
+                            </Link>
+                        </div>
+
+                        {/* Mobile App */}
+                        <div className="service-card">
+                            <div className="service-icon-box">
+                                <i className="fas fa-mobile-alt service-icon"></i>
+                            </div>
+                            <h3 className="service-title">Mobile App Development</h3>
+                            <p className="service-description">We create innovative mobile applications (Android / iOS) that provide seamless user experiences and drive engagement.</p>
+                            <Link to="/mobile" className="service-link">
+                                Read More <i className="fas fa-arrow-right"></i>
+                            </Link>
+                        </div>
+
+                        {/* Creative Design */}
+                        <div className="service-card">
+                            <div className="service-icon-box">
+                                <i className="fas fa-paint-brush service-icon"></i>
+                            </div>
+                            <h3 className="service-title">Interactive & Creative Designs</h3>
+                            <p className="service-description">Enhance your business with interactive and creative designs that adapt to and reflect your brand.</p>
+                            <Link to="/creative" className="service-link">
+                                Read More <i className="fas fa-arrow-right"></i>
+                            </Link>
+                        </div>
+
+                        {/* Social Media */}
+                        <div className="service-card">
+                            <div className="service-icon-box">
+                                <i className="fas fa-share-alt service-icon"></i>
+                            </div>
+                            <h3 className="service-title">Social Media Management</h3>
+                            <p className="service-description">Engage your brand with effective social media strategies provided by Digital Edge.</p>
+                            <Link to="/social" className="service-link">
+                                Read More <i className="fas fa-arrow-right"></i>
+                            </Link>
                         </div>
                     </div>
-                    <div className="row align-items-center pb-3">
-                        <div className="col-md-6">
-                            <img src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?ga=GA1.1.945843794.1726646547&semt=ais_hybrid" alt="About Us Image" className="img-fluid rounded" />
+                </div>
+            </section>
+
+            <section className="about-section">
+                <div className="container">
+                    <div className="about-grid">
+                        <div className="about-image-wrapper">
+                            <img src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?ga=GA1.1.945843794.1726646547&semt=ais_hybrid" alt="About Us" className="about-image" />
                         </div>
-                        <div className="col-md-6">
-                            <div className="about-us-content">
-                                <div className="stats d-flex flex-wrap mt-3 mt-md-0 justify-content-center">
-                                    <div className="stat-item text-center p-2 col-6 col-md-4">
-                                        <strong className="fs-3 text-black">10+</strong>
-                                        <p className="fs-5 text-wrap">Years of Experience</p>
-                                    </div>
-                                    <div className="stat-item text-center p-2 col-6 col-md-4">
-                                        <strong className="fs-3 text-black">20+</strong>
-                                        <p className="fs-5 text-wrap">Ecommerce Developed</p>
-                                    </div>
-                                    <div className="stat-item text-center p-2 col-6 col-md-4">
-                                        <strong className="fs-3 text-black">35+</strong>
-                                        <p className="fs-5 text-wrap">Websites Developed</p>
-                                    </div>
-                                    <div className="stat-item text-center p-2 col-6 col-md-4">
-                                        <strong className="fs-3 text-black">20+</strong>
-                                        <p className="fs-5 text-wrap">Mobile Apps Developed</p>
-                                    </div>
-                                    <div className="stat-item text-center p-2 col-6 col-md-4">
-                                        <strong className="fs-3 text-black">10+</strong>
-                                        <p className="fs-5 text-wrap">ERP Software Developed</p>
-                                    </div>
-                                    <div className="stat-item text-center p-2 col-6 col-md-4">
-                                        <strong className="fs-3 text-black">50+</strong>
-                                        <p className="fs-5">Social Media Campaigns</p>
-                                    </div>
-                                    <div className="stat-item text-center p-2 col-6 col-md-4">
-                                        <strong className="fs-3 text-black">4.7/5</strong>
-                                        <p className="fs-5 text-wrap text-black">Rated on Google</p>
-                                    </div>
+                        <div className="about-content">
+                            <div className="titles">
+                                <h6>ABOUT US</h6>
+                                <p>What we have achieved</p>
+                            </div>
+                            <p className="about-description">
+                                With over a decade of experience, we have delivered exceptional digital solutions across various industries. Our commitment to innovation and quality has helped businesses grow and succeed in the digital landscape.
+                            </p>
+                            <div className="about-stats-grid items-center">
+                                <div className="stat-card">
+                                    <span className="stat-number">11+</span>
+                                    <span className="stat-label">Years Experience</span>
+                                </div>
+                                <div className="stat-card">
+                                    <span className="stat-number">20+</span>
+                                    <span className="stat-label">Ecommerce Sites</span>
+                                </div>
+                                <div className="stat-card">
+                                    <span className="stat-number">35+</span>
+                                    <span className="stat-label">Websites Built</span>
+                                </div>
+                                <div className="stat-card">
+                                    <span className="stat-number">20+</span>
+                                    <span className="stat-label">Mobile Apps</span>
+                                </div>
+                                <div className="stat-card">
+                                    <span className="stat-number">10+</span>
+                                    <span className="stat-label">ERP Software</span>
+                                </div>
+                                <div className="stat-card">
+                                    <span className="stat-number">50+</span>
+                                    <span className="stat-label">Social Campaigns</span>
+                                </div>
+                                <div className="stat-card">
+                                    <span className="stat-number">4.7/5</span>
+                                    <span className="stat-label">Rated on Google</span>
                                 </div>
                             </div>
                         </div>
@@ -348,73 +273,94 @@ const Home = () => {
                 </div>
             </section>
 
-            <section className="works">
+            {/* <section className="products-section">
                 <div className="container">
-                    <ul>
-                        {/* Left Column - Explore Digital Edge */}
-                        <li>
-                            <div className="titles">
-                                <h2>Explore Digital Edge</h2>
-                                <p>
-                                    We're constantly updating ourselves with the newest trends and technologies to boost your
-                                    business.
-                                </p>
-                                <div className="custom-btn"><Link to="/service">See all Services<span></span> <i></i></Link></div>
+                    <div className="titles">
+                        <h6>OUR PRODUCTS</h6>
+                        <h2>We Build Solutions</h2>
+                    </div>
+                    <div className="products-grid">
+                        <div className="product-card">
+                            <div className="product-image-wrapper">
+                                <i className="fas fa-file-invoice-dollar"></i>
                             </div>
-                        </li>
+                            <div className="product-content">
+                                <h3 className="product-title">Acedge</h3>
+                                <p className="product-description">A modern billing and inventory system designed to streamline your business operations with efficiency and precision.</p>
+                                <Link to="/acedge" className="product-link">
+                                    Learn More <i className="fas fa-arrow-right"></i>
+                                </Link>
+                            </div>
+                        </div>
+                        <div className="product-card">
+                            <div className="product-image-wrapper">
+                                <i className="fas fa-server"></i>
+                            </div>
+                            <div className="product-content">
+                                <h3 className="product-title">Niyantra</h3>
+                                <p className="product-description">Comprehensive IT assets management system to track, monitor, and optimize your organization's hardware and software resources.</p>
+                                <a href="https://niyantra.digitaledgetech.in" target="_blank" className="product-link">
+                                    Learn More <i className="fas fa-arrow-right"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section> */}
 
-                        {/* Right Column - Aminu */}
-                        <li>
-                            <div className="project-box">
-                                <figure className="project-image reveal-effect masker wow">
-                                    <img src="/assets/images/AMINU.jpg"
-                                        alt="Aminu Skin Care eCommerce Website"
-                                        width="100%"
-                                        height="auto" />
-                                </figure>
-                                <div className="project-content">
-                                    <h3><a href="https://aminu.life/" target="_blank" rel="noreferrer">Aminu</a></h3>
-                                    <small>Website Skin Care - eCommerce</small>
+            <section className="works-section">
+                <div className="container">
+                    <div className='d-flex flex-column flex-md-row justify-content-between align-items-center'>
+
+
+                        <div className="titles">
+                            <h6>Projects</h6>
+                            <p>Explore our projects</p>
+                            {/* <h2>We're constantly updating ourselves with the newest trends and technologies to boost your business.</h2> */}
+
+                        </div>
+                        <Link to="/service" className="btn-explore nowrap">
+                            See all Services <i className="fas fa-arrow-right"></i>
+                        </Link>
+                    </div>
+
+                    <div className="works-grid">
+                        {/* Aminu */}
+                        <div className="work-item large" onClick={() => window.open("https://aminu.life/", "_blank")}>
+                            <img src="/assets/images/AMINU.jpg" alt="Aminu Skin Care" className="work-image" />
+                            <div className="work-overlay">
+                                <span className="work-category">eCommerce</span>
+                                <h3 className="work-title">Aminu Skin Care</h3>
+                                <div className="work-link-icon">
+                                    <i className="fas fa-arrow-right"></i>
                                 </div>
                             </div>
-                        </li>
+                        </div>
 
-                        {/* Left Column - Killer Store Locator */}
-                        <li className="block relative">
-                            <div className="project-box left-auto translate-x-10">
-                                <figure className="project-image reveal-effect masker wow">
-                                    <img src="/assets/images/Killer.jpg"
-                                        alt="Killer Store Locator Dynamic Website"
-                                        width="100%"
-                                        height="auto" />
-                                </figure>
-                                <div className="project-content">
-                                    <h3>
-                                        <a href="https://www.killerjeans.com/store-locator" target="_blank" rel="noreferrer">
-                                            Killer Store Locator
-                                        </a>
-                                    </h3>
-                                    <small>Website Killer Store Locator - Dynamic</small>
+                        {/* Killer Store Locator */}
+                        <div className="work-item medium" onClick={() => window.open("https://www.killerjeans.com/store-locator", "_blank")}>
+                            <img src="/assets/images/Killer.jpg" alt="Killer Store Locator" className="work-image" />
+                            <div className="work-overlay">
+                                <span className="work-category">Dynamic Website</span>
+                                <h3 className="work-title">Killer Store Locator</h3>
+                                <div className="work-link-icon">
+                                    <i className="fas fa-arrow-right"></i>
                                 </div>
                             </div>
-                        </li>
+                        </div>
 
-                        {/* Right Column - Passion Indulge */}
-                        <li>
-                            <div className="project-box">
-                                <figure className="project-image reveal-effect masker wow">
-                                    <img src="/assets/images/Passion Indulge.jpg"
-                                        alt="Passion Indulge Beauty eCommerce Website"
-                                        width="100%"
-                                        height="auto" />
-                                </figure>
-                                <div className="project-content">
-                                    <h3><a href="https://passionindulge.com/" target="_blank" rel="noreferrer">Passion Indulge</a></h3>
-                                    <small>Website Beauty & Skin Care — eCommerce</small>
+                        {/* Passion Indulge */}
+                        <div className="work-item medium" onClick={() => window.open("https://passionindulge.com/", "_blank")}>
+                            <img src="/assets/images/Passion Indulge.jpg" alt="Passion Indulge" className="work-image" />
+                            <div className="work-overlay">
+                                <span className="work-category">Beauty & Skin Care</span>
+                                <h3 className="work-title">Passion Indulge</h3>
+                                <div className="work-link-icon">
+                                    <i className="fas fa-arrow-right"></i>
                                 </div>
                             </div>
-                        </li>
-                    </ul>
+                        </div>
+                    </div>
                 </div>
             </section>
 
@@ -422,7 +368,7 @@ const Home = () => {
                 <div className="container">
                     <div className="titles text-start mb-5" style={{ paddingRight: 0 }}>
                         <h6>HOW WE PROCESS</h6>
-                        <p className="text-yellow text-bold">Our Development Process</p>
+                        <p className="text-bold">Our Development Process</p>
                     </div>
                     <div className="row g-4">
                         <div className="col-lg-4 col-md-6 mb-3">

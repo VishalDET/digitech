@@ -1,5 +1,5 @@
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import React, { useState, useEffect } from 'react';
+import { Routes, Route, useLocation } from 'react-router-dom';
 import Layout from './components/Layout';
 import Home from './pages/Home';
 import About from './pages/About';
@@ -13,10 +13,30 @@ import Erp from './pages/Erp';
 import Creative from './pages/Creative';
 import Hardware from './pages/Hardware';
 import Clientele from './pages/Clientele';
+import Loader from './components/Loader';
 
 function App() {
+  const [isLoading, setIsLoading] = useState(true);
+  const location = useLocation();
+
+  useEffect(() => {
+    // Show loader on page change
+    setIsLoading(true);
+
+    // Smooth transition delay
+    const timer = setTimeout(() => {
+      setIsLoading(false);
+    }, 1000); // 1 second for a premium feel
+
+    // Scroll to top on every route change
+    window.scrollTo(0, 0);
+
+    return () => clearTimeout(timer);
+  }, [location.pathname]);
+
   return (
-    <Router>
+    <>
+      {isLoading && <Loader />}
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
@@ -35,7 +55,7 @@ function App() {
           <Route path="*" element={<Home />} /> {/* Fallback to Home for now */}
         </Routes>
       </Layout>
-    </Router>
+    </>
   );
 }
 

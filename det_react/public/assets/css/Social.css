@@ -1,6 +1,4 @@
-﻿
-
-/* Bold font */
+﻿/* Bold font */
 @font-face {
     font-family: 'Mont';
     src: url('../fonts/Mont-Bold.woff2') format('woff2'), url('../fonts/Mont-Bold.woff') format('woff'), url('../fonts/Mont-Bold.ttf') format('truetype');
@@ -12,32 +10,38 @@
 @font-face {
     font-family: 'Mont';
     src: url('../fonts/Mont-Heavy.woff2') format('woff2'), url('../fonts/Mont-Heavy.woff') format('woff'), url('../fonts/Mont-Heavy.ttf') format('truetype');
-    font-weight: 900; /* Heavy weight or extra bold */
+    font-weight: 900;
+    /* Heavy weight or extra bold */
     font-style: normal;
 }
 
-@media(max-width:540px){
-    html,body {
-        padding:0;
-        margin:0;
+@media(max-width:540px) {
+
+    html,
+    body {
+        padding: 0;
+        margin: 0;
         overflow-x: hidden;
     }
 
 }
+
 body {
     background-color: #802288;
     min-height: 100vh;
     font-family: Mont !important;
     font-weight: normal;
-}h2 {
+}
+
+h2 {
     font-size: 2.5vw;
 }
 
- a{
-     text-decoration:none;
-     color:black;
-     font-weight:lighter;
- }
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: lighter;
+}
 
 @keyframes float {
     0% {
@@ -80,11 +84,11 @@ body {
     text-shadow: 2px 2px 2px #000;
 }
 
-    .display-4 strong {
-        color: #edb121;
-        font-size: 4.5vw;
-        font-style: italic;
-    }
+.display-4 strong {
+    color: #edb121;
+    font-size: 4.5vw;
+    font-style: italic;
+}
 
 .project-slider {
     display: flex;
@@ -100,33 +104,33 @@ body {
     margin: 0 10px;
     padding: 0;
     border-radius: 1rem;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) !important;
 }
 
-    .project-card:hover {
-        transform: translateY(-10px);
-    }
+.project-card:hover {
+    transform: translateY(-10px);
+}
 
-    .project-card .card-img-top {
-        height: 200px;
-        object-fit: cover;
-        transition: transform 0.3s ease-in-out;
-    }
+.project-card .card-img-top {
+    height: 200px;
+    object-fit: cover;
+    transition: transform 0.3s ease-in-out;
+}
 
-    .project-card .card-footer {
-        text-wrap: wrap;
-        padding-bottom: 0.5rem !important;
-    }
+.project-card .card-footer {
+    text-wrap: wrap;
+    padding-bottom: 0.5rem !important;
+}
 
-    .project-card .card-title {
-        font-weight: normal;
-        margin-bottom: 0.5rem;
-    }
+.project-card .card-title {
+    font-weight: normal;
+    margin-bottom: 0.5rem;
+}
 
-    .project-card .card-text {
-        font-size: 0.9rem;
-        color: #6c757d;
-    }
+.project-card .card-text {
+    font-size: 0.9rem;
+    color: #6c757d;
+}
 
 .partners-container {
     overflow: hidden;
@@ -141,14 +145,14 @@ body {
     gap: 5rem;
 }
 
-    .partners-row img {
-        height: 80px;
-        filter: grayscale(0.8);
-    }
+.partners-row img {
+    height: 80px;
+    filter: grayscale(0.8);
+}
 
-        .partners-row img:hover {
-            filter: grayscale(0);
-        }
+.partners-row img:hover {
+    filter: grayscale(0);
+}
 
 .row-1 {
     animation-name: moveLeft;
@@ -188,12 +192,12 @@ body {
     font-size: 1.2rem;
 }
 
-    .btn:hover {
-        background: rgba(138, 41, 138, 1) !important;
-        color: white;
-        border-color: #cc9c28;
-        border: 2px solid #fff;
-    }
+.btn:hover {
+    background: rgba(138, 41, 138, 1) !important;
+    color: white;
+    border-color: #cc9c28;
+    border: 2px solid #fff;
+}
 
 .platform-card {
     border: none;
@@ -203,16 +207,16 @@ body {
     border: 1px solid #d0d0d0;
 }
 
-    .platform-card .btn {
-        color: #000;
-        font-size: 1rem;
-        padding: 5px 15px;
-    }
+.platform-card .btn {
+    color: #000;
+    font-size: 1rem;
+    padding: 5px 15px;
+}
 
-    .platform-card:hover {
-        transform: translateY(-10px);
-        box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-    }
+.platform-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
 
 .platform-icon {
     font-size: 3rem;
@@ -258,9 +262,9 @@ body {
         font-size: 10vw;
     }
 
-        .display-4 strong {
-            font-size: 20vw;
-        }
+    .display-4 strong {
+        font-size: 20vw;
+    }
 
     .project-card {
         flex: 0 0 320px;
@@ -320,6 +324,7 @@ body {
 .bg-google-my-business .btn:hover {
     background-color: #afd1f2 !important;
 }
+
 /*.review-card{
             border: 1px solid #d0d0d0;
             box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
@@ -333,17 +338,17 @@ body {
     transition: 0.3s ease-in-out;
 }
 
-    .review-card:hover {
-        border-color: rgba(0, 0, 0, 0.89);
-    }
+.review-card:hover {
+    border-color: rgba(0, 0, 0, 0.89);
+}
 
-    .review-card .card-body {
-        padding: 8px 10px !important;
-    }
+.review-card .card-body {
+    padding: 8px 10px !important;
+}
 
-        .review-card .card-body .card-title {
-            font-size: 1rem;
-        }
+.review-card .card-body .card-title {
+    font-size: 1rem;
+}
 
 .review-avatar {
     background-color: #cc9c28;
@@ -365,10 +370,10 @@ body {
     color: #000;
 }
 
-    .ppc-card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-    }
+.ppc-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
 
 .ppc-icon {
     font-size: 2.5rem;
@@ -389,17 +394,17 @@ body {
     transition: color 0.3s ease;
 }
 
-    .fab.fa-facebook:hover {
-        color: #1877f2;
-    }
+.fab.fa-facebook:hover {
+    color: #1877f2;
+}
 
-    .fab.fa-instagram:hover {
-        color: #c13584;
-    }
+.fab.fa-instagram:hover {
+    color: #c13584;
+}
 
-    .fab.fa-linkedin:hover {
-        color: #0077b5;
-    }
+.fab.fa-linkedin:hover {
+    color: #0077b5;
+}
 
 .fa-brands.fa-x-twitter:hover {
     color: #000000;
@@ -415,27 +420,28 @@ body {
     font-weight: 600;
     border: 0px;
     transition: 0.5s ease-in-out;
-    box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
+    box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
 }
 
-    .btn-contact:hover {
-        box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
-        border:0;
-    }
+.btn-contact:hover {
+    box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+    border: 0;
+}
 
-    .btn-contact i {
-        margin-left: 10px;
-        transition: transform 0.3s ease;
-    }
+.btn-contact i {
+    margin-left: 10px;
+    transition: transform 0.3s ease;
+}
 
-    .btn-contact:hover i {
-        transform: translateX(5px);
-    }
+.btn-contact:hover i {
+    transform: translateX(5px);
+}
 
 .review-stars {
     color: #cd7a00;
     filter: drop-shadow(2px 4px 6px #d0d0d0);
 }
+
 .text-yellow {
     color: #edb121;
 }
@@ -447,34 +453,37 @@ body {
 .fw-bold {
     font-weight: 550 !important;
 }
-.text-dark{
-    color:#181818;
+
+.text-dark {
+    color: #181818;
 }
 
 .carousel-indicators {
     margin-top: 20px;
 }
 
-    .carousel-indicators button {
-        background-color: #888;
-        border: none;
-        width: 20px;
-        height: 8px;
-        border-radius: 4px;
-        margin: 5px;
-        transition: background-color 0.3s ease, transform 0.3s ease;
-    }
+.carousel-indicators button {
+    background-color: #888;
+    border: none;
+    width: 20px;
+    height: 8px;
+    border-radius: 4px;
+    margin: 5px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
 
 
-    .carousel-indicators .active, .carousel-indicators [data-bs-target] {
-        background-color: #f1c40f;
-        width: 20px !important;
-        height: 8px !important;
-    }
+.carousel-indicators .active,
+.carousel-indicators [data-bs-target] {
+    background-color: #f1c40f;
+    width: 20px !important;
+    height: 8px !important;
+}
 
-    .carousel-indicators button:hover {
-        background-color: #f39c12;
-    }
+.carousel-indicators button:hover {
+    background-color: #f39c12;
+}
+
 .highlight-text {
     background: linear-gradient(to right, #000, #d63384);
     -webkit-background-clip: text;
@@ -488,18 +497,18 @@ body {
     padding: 10px 20px;
 }
 
-    .btn-custom:hover {
-        background: #d63384;
-        color: #fff;
-    }
+.btn-custom:hover {
+    background: #d63384;
+    color: #fff;
+}
 
 .watch-card img {
     transition: transform 0.3s ease-in-out;
 }
 
-    .watch-card img:hover {
-        transform: scale(1.1);
-    }
+.watch-card img:hover {
+    transform: scale(1.1);
+}
 
 .contact-banner {
     background: linear-gradient(135deg, #3b1d85, #642cb9);
@@ -511,14 +520,14 @@ body {
     overflow: hidden;
 }
 
-    .contact-banner h2 {
-        font-weight: bold;
-    }
+.contact-banner h2 {
+    font-weight: bold;
+}
 
-    .contact-banner p {
-        opacity: 0.9;
-        margin-bottom: 20px;
-    }
+.contact-banner p {
+    opacity: 0.9;
+    margin-bottom: 20px;
+}
 
 .contact-button {
     background: white;
@@ -530,9 +539,9 @@ body {
     transition: 0.3s;
 }
 
-    .contact-button:hover {
-        background: #f5f5f5;
-    }
+.contact-button:hover {
+    background: #f5f5f5;
+}
 
 /* Floating Elements */
 .circle {
@@ -542,23 +551,23 @@ body {
     filter: blur(8px);
 }
 
-    .circle.one {
-        width: 80px;
-        height: 80px;
-        top: 20px;
-        left: 30px;
-    }
+.circle.one {
+    width: 80px;
+    height: 80px;
+    top: 20px;
+    left: 30px;
+}
 
-    .circle.two {
-        width: 50px;
-        height: 50px;
-        bottom: 30px;
-        right: 40px;
-    }
+.circle.two {
+    width: 50px;
+    height: 50px;
+    bottom: 30px;
+    right: 40px;
+}
 
-    .circle.three {
-        width: 30px;
-        height: 30px;
-        top: 50%;
-        left: 50%;
-    }
+.circle.three {
+    width: 30px;
+    height: 30px;
+    top: 50%;
+    left: 50%;
+}

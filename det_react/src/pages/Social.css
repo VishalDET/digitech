@@ -104,37 +104,172 @@
     transform: scale(1.05);
 }
 
-.hover-scale-sm {
+/* Global Section Spacing */
+.py-6 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.py-7 {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+/* Section Dividers and Patterns */
+.bg-dot-pattern {
+    background-image: radial-gradient(#80228815 1.5px, transparent 0);
+    background-size: 24px 24px;
+}
+
+/* Expertise Section Redesign */
+.expertise-section {
+    position: relative;
+    background-color: #fff;
+}
+
+.expertise-card {
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(128, 34, 136, 0.1) !important;
+    transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    position: relative;
+    overflow: hidden;
+}
+
+.expertise-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: var(--social-gradient);
+    transform: scaleX(0);
+    transition: transform 0.4s ease;
+    transform-origin: left;
+}
+
+.expertise-card:hover {
+    transform: translateY(-12px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08) !important;
+}
+
+.expertise-card:hover::before {
+    transform: scaleX(1);
+}
+
+.expertise-icon-wrapper {
+    width: 90px;
+    height: 90px;
+    margin: 0 auto 1.5rem;
+    border-radius: 24px;
+    background: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    border: 1px solid #eee;
+}
+
+.expertise-card:hover .expertise-icon-wrapper {
+    background: var(--primary-purple);
+    color: white !important;
+    transform: rotate(10deg);
+}
+
+/* Multi-Platform Section Redesign */
+.platform-card-new {
+    background: #fff !important;
+    border: 1px solid #f0f0f0 !important;
+    padding: 2.5rem 1.5rem !important;
+    transition: all 0.4s ease;
+    border-radius: 20px;
+}
+
+.platform-card-new:hover {
+    border-color: transparent !important;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.08) !important;
+}
+
+.platform-icon-box {
+    margin-bottom: 1.5rem;
+    position: relative;
+    display: inline-block;
+}
+
+.platform-icon-box i {
+    font-size: 2.8rem;
     transition: transform 0.3s ease;
 }
 
-.hover-scale-sm:hover {
-    transform: scale(1.02);
+.platform-card-new:hover .platform-icon-box i {
+    transform: scale(1.15);
 }
 
-/* Platform Card Colors (Restored) */
-.bg-facebook {
-    background-color: #d5eaff;
+/* Specific Platform Accents */
+.accent-facebook:hover {
+    border-bottom: 4px solid #1877f2 !important;
 }
 
-.bg-instagram {
-    background-color: #fce7f3;
+.accent-instagram:hover {
+    border-bottom: 4px solid #e4405f !important;
 }
 
-.bg-x {
-    background-color: #e2e2e2;
+.accent-google-ads:hover {
+    border-bottom: 4px solid #fbbc05 !important;
 }
 
-.bg-linkedin {
-    background-color: #e8f4f9;
+.accent-linkedin:hover {
+    border-bottom: 4px solid #0077b5 !important;
 }
 
-.bg-email {
-    background-color: #e6ffe6;
+.accent-email:hover {
+    border-bottom: 4px solid #198754 !important;
 }
 
-.bg-google {
-    background-color: #afd1f2;
+.accent-google-my-business:hover {
+    border-bottom: 4px solid #4285f4 !important;
+}
+
+/* PPC Section Redesign */
+.ppc-section-new {
+    /* background: linear-gradient(135deg, #2d0b2f 0%, #1a1a1a 100%); */
+    background: linear-gradient(135deg, #5e2463 0%, #802288 100%);
+    color: white;
+}
+
+.ppc-glass-card {
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    border-radius: 24px;
+    padding: 2rem;
+    transition: all 0.3s ease;
+}
+
+.ppc-glass-card:hover {
+    background: rgba(255, 255, 255, 0.06);
+    transform: translateY(-5px);
+    border-color: var(--primary-gold) !important;
+}
+
+.ppc-icon {
+    color: var(--primary-gold);
+    margin-bottom: 1.5rem;
+}
+
+.ppc-platform-pill {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition: all 0.3s ease;
+    align-items: center;
+}
+
+.ppc-platform-pill:hover {
+    background: rgba(255, 255, 255, 0.15);
+    transform: translateY(-3px);
 }
 
 /* Ensure text is visible on pastel backgrounds */
@@ -199,5 +334,128 @@
     .shape-2 {
         display: none;
         /* Hide shapes on mobile to prevent overflow/clutter */
+    }
+}
+
+/* Modern CTA Section */
+.social-cta-section {
+    padding: 8rem 0;
+    background-color: #fff;
+    position: relative;
+}
+
+.social-cta-card {
+    background: var(--social-gradient);
+    border-radius: 40px;
+    padding: 5rem 4rem;
+    position: relative;
+    overflow: hidden;
+    color: white;
+    box-shadow: 0 30px 60px -12px rgba(128, 34, 136, 0.3);
+    border: none;
+}
+
+.social-cta-card::before {
+    content: '';
+    position: absolute;
+    top: -100px;
+    right: -100px;
+    width: 300px;
+    height: 300px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.social-cta-card::after {
+    content: '';
+    position: absolute;
+    bottom: -50px;
+    left: -50px;
+    width: 200px;
+    height: 200px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.social-cta-content {
+    position: relative;
+    z-index: 2;
+}
+
+.social-cta-card h2 {
+    font-size: 3.5rem;
+    font-weight: 800;
+    line-height: 1.1;
+    margin-bottom: 2rem;
+    letter-spacing: -1.5px;
+}
+
+.social-cta-card .lead {
+    font-size: 1.4rem;
+    opacity: 0.95;
+    margin-bottom: 3rem;
+    max-width: 650px;
+    line-height: 1.6;
+}
+
+.social-contact-link {
+    color: #fff;
+    text-decoration: underline;
+    text-underline-offset: 6px;
+    transition: all 0.3s ease;
+    font-weight: 600;
+}
+
+.social-contact-link:hover {
+    color: var(--primary-gold);
+    opacity: 1;
+}
+
+.btn-modern-cta {
+    background: #fff;
+    color: var(--primary-purple);
+    font-weight: 700;
+    padding: 1.25rem 3rem;
+    border-radius: 100px;
+    border: 2px solid #fff;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    text-decoration: none;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.btn-modern-cta:hover {
+    background: transparent;
+    color: #fff !important;
+    transform: translateY(-8px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+}
+
+.btn-modern-cta i {
+    transition: transform 0.3s ease;
+}
+
+.btn-modern-cta:hover i {
+    transform: translateX(5px);
+}
+
+@media (max-width: 991px) {
+    .social-cta-card {
+        padding: 4rem 2rem;
+        text-align: center;
+    }
+
+    .social-cta-card h2 {
+        font-size: 2.5rem;
+    }
+
+    .social-cta-card .lead {
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 1.1rem;
     }
 }
